@@ -14,6 +14,7 @@
 		"arabic": "ﺚﺤﺒﻟﺍ",
 		"polish": "Badania",
 		"italian": "Ricerca",
+		"thai": "การวิจัย",
 	},
 	"researchOverview": {
 		"english": "Research Overview",
@@ -30,6 +31,7 @@
 		"arabic": "ﺙﺎﺤﺑﻷﺍ ﻰﻠﻋ ﺔﻣﺎﻋ ﺓﺮﻈﻧ",
 		"polish": "Przegląd badań",
 		"italian": "Panoramica ricerche",
+		"thai": "ภาพรวมการวิจัย",
 	},
 	"nothingUnlocked": {
 		"english": "Nothing unlocked.",
@@ -46,6 +48,7 @@
 		"arabic": ".ﺡﻮﺘﻔﻣ ﺀﻲﺷ ﻻ",
 		"polish": "Nic nie jest odblokowane",
 		"italian": "Nulla sbloccato.",
+		"thai": "ไม่มีอะไรถูกปลด",
 	},
 	"unlockedObjects": {
 		"english": "Unlocked Objects:",
@@ -62,6 +65,7 @@
 		"arabic": ":ﻲﻟﺎﺘﻟﺍ ﺢﺘﻔﻳ",
 		"polish": "Odblokowane obiekty:",
 		"italian": "Oggetti sbloccati:",
+		"thai": "สิ่งของที่ถูกปลด:",
 	},
 
 
@@ -78,6 +82,7 @@
 		"chinese": "外交",
 		"korean": "외교",
 		"turkish": "Diplomasi",
+		"thai": "การฑูต",
 	},
 	"showOnMap": {
 		"english": "Show Location",
@@ -91,6 +96,7 @@
 		"chinese": "显示位置",
 		"korean": "위치 확인",
 		"turkish": "Yer göster",
+		"thai": "แสดงตำแหน่ง",
 	},
 	"contactFaction": {
 		"english": "Contact",
@@ -104,6 +110,7 @@
 		"chinese": "联系",
 		"korean": "접촉",
 		"turkish": "İletişim",
+		"thai": "ติดต่อ",
 	},
 	"relationshipPoints": {
 		"english": "Relationship points:",
@@ -117,6 +124,7 @@
 		"chinese": "友好值",
 		"korean": "우호도:",
 		"turkish": "İlişki puanları:",
+		"thai": "แต้มความสัมพันธ์:",
 	},
 	"pointsMaximumAcronym": {
 		"english": "max",
@@ -130,6 +138,7 @@
 		"chinese": "最大值",
 		"korean": "최대",
 		"turkish": "max",
+		"thai": "สูงสุด",
 	},
 	"neutralRelations": {
 		"english": "Neutral relations",
@@ -143,6 +152,7 @@
 		"chinese": "中立关系",
 		"korean": "중립적인 관계",
 		"turkish": "Tarafsız",
+		"thai": "ความสัมพันธ์เป็นกลาง",
 	},
 	"truceWithTime": {
 		"english": "Truce (%seconds% s)",
@@ -156,6 +166,7 @@
 		"chinese": "休战(%seconds% 秒)",
 		"korean": "휴전(%seconds% 초)",
 		"turkish": "Ateşkes (%seconds% s)",
+		"thai": "สงบศึก (%seconds% s)",
 	},
 	"willAttackOnSight": {
 		"english": "Will attack on sight",
@@ -169,6 +180,7 @@
 		"chinese": "一见即攻",
 		"korean": "보이는대로 공격",
 		"turkish": "Görüldüğünde saldırı",
+		"thai": "จะโจมตีเมื่อพบ",
 	},
 	"strainedRelations": {
 		"english": "Strained relations",
@@ -182,6 +194,7 @@
 		"chinese": "紧张关系",
 		"korean": "불편한 관계",
 		"turkish": "Gerginlik",
+		"thai": "ความสัมพันธ์ตึงเครียด",
 	},
 	"friendlyRelations": {
 		"english": "Friendly relations",
@@ -195,6 +208,7 @@
 		"chinese": "友好关系",
 		"korean": "친밀한 관계",
 		"turkish": "Dostça bir ilişki",
+		"thai": "ความสัมพันธ์ฉันท์มิตร",
 	},
 	"relationshipTutorialDescription": { // needs to be short engouh to fit in 3 lines in tooltip
 		"english": "Friendly if relations over %friendlyLimit%.\nAttacks on sight if relations below %attackingLimit%.",
@@ -208,6 +222,7 @@
 		"chinese": "如果关系值超过超过%friendlyLimit%会交好。如果关系指低于%attackingLimit%则立即攻击。",
 		"korean": "우호도가 %friendlyLimit%을 넘으면 친밀해집니다.\n우호도가 %attackingLimit%보다 낮다면, 보이는대로 공격합니다.",
 		"turkish": "%friendlyLimit% geçildiğinde arkadaşça.\n ilşiki %attackingLimit% altına düştüğündeyse görüldüğünde saldırı boyutuna geçer.",
+		"thai": "เป็นมิตรเมื่อความสัมพันธ์มากกว่า %friendlyLimit%.\nโจมตีเมื่อพบเห็นถ้าความสัมพันธ์ต่ำกว่า %attackingLimit%",
 	},
 
 
@@ -227,6 +242,7 @@
 		"arabic": "ﺝﺍﺰﻤﻟﺍ",
 		"polish": "Humor",
 		"italian": "Umore",
+		"thai": "อารมณ์",
 	},
 	"friendships": {
 		"english": "Friendships",
@@ -243,6 +259,7 @@
 		"arabic": "ﺕﺎﻗﺍﺪﺼﻟﺍ",
 		"polish": "Przyjaźnie",
 		"italian": "Socialità",
+		"thai": "ความเป็นมิตร",
 	},
 	"hunger": {
 		"english": "Hunger",
@@ -259,6 +276,7 @@
 		"arabic": "ﻉﻮﺠﻟﺍ",
 		"polish": "Głód",
 		"italian": "Fame",
+		"thai": "ความหิว",
 	},
 	"stamina": {
 		"english": "Stamina",
@@ -275,6 +293,7 @@
 		"arabic": "ﻞﻤﺤﺘﻟﺍ",
 		"polish": "Energia",
 		"italian": "Energia",
+		"thai": "ความอดทน",
 	},
 	"health": {
 		"english": "Health",
@@ -291,6 +310,7 @@
 		"arabic": "ﺔﺤﺼﻟﺍ",
 		"polish": "Zdrowie",
 		"italian": "Salute",
+		"thai": "สุขภาพ",
 	},
 	"needsDescriptionMood": {
 		"english": "If you don't keep your colonists happy, they'll start being defiant and might stop following your orders.",
@@ -307,6 +327,7 @@
 		"arabic": ".ﻚﺗﺎﺒﻠﻃ ﺔﻌﺑﺎﺘﻣ ﻦﻋ ﻥﻮﻔﻗﻮﺘﻳ ﺪﻗﻭ ﻚﻳﺪﺤﺗ ﻲﻓ ﻥﻭﺃﺪﺒﻳ ﻑﻮﺴﻓ ، ﺀﺍﺪﻌﺳ ﻚﻳﺮﻤﻌﺘﺴﻣ ﻖﺒﺗ ﻢﻟ ﺍﺫﺇ",
 		"polish": "Jeśli nie będziesz utrzymwał kolonistów szczęśliwych, mogą oni przestać wykonywać Twoje polecenia.",
 		"italian": "Se non rendi felici i tuoi coloni, inizieranno ad essere sprezzanti e potrebbero smettere di seguire i tuoi ordini.",
+		"thai": "ถ้าคุณไม่ทำให้คนในอาณานิคมมีความสุขไว้ พวกเขาจะเริ่มต่อต้านและอาจจะหยุดทำตามคำสั่งของคุณ",
 	},
 	"needsDescriptionFriendships": {
 		"english": "This need hasn't been fully included into the game yet.",
@@ -323,6 +344,7 @@
 		"arabic": ".ﻥﻵﺍ ﻰﺘﺣ ﺔﺒﻌﻠﻟﺍ ﻲﻓ ﻞﻣﺎﻜﻟﺎﺑ ﺔﺟﺎﺤﻟﺍ ﻩﺬﻫ ﻦﻴﻤﻀﺗ ﻢﺘﻳ ﻢﻟ",
 		"polish": "To nie zostało jeszcze w pełni dodane do gry.",
 		"italian": "Questo bisogno non è stato ancora completamente implementato nel gioco.",
+		"thai": "ความต้องการนี้ยังไม่รวมอยู่ในเกมตอนนี้",
 	},
 	"needsDescriptionHunger": {
 		"english": "Gather apples or plant crops to take care of food.",
@@ -339,6 +361,7 @@
 		"arabic": ".ﻡﺎﻌﻄﻟﺎﺑ ﻡﺎﻤﺘﻫﻺﻟ ﻞﻴﺻﺎﺤﻤﻟﺍ ﻉﺭﺯﺍ ﻭﺃ ﺡﺎﻔﺘﻟﺍ ﻊﻤﺟﺍ",
 		"polish": "Zbieraj jabłka lub sadź uprawy aby zadbać o jedzenie.",
 		"italian": "Raccogli le mele o pianta delle colture per procurarti del cibo.",
+		"thai": "เก็บเกี่ยวแอปเปิ้ลหรือพืชพรรณเพื่อดูแลเรื่องอาหาร",
 	},
 	"needsDescriptionStamina": {
 		"english": "Give your colonist a break every once in a while so they can recover.",
@@ -355,6 +378,7 @@
 		"arabic": ".ﻲﻓﺎﻌﺘﻟﺍ ﻦﻣ ﺍﻮﻨﻜﻤﺘﻳ ﻰﺘﺣ ﺖﻗﻮﻟﺍ ﻦﻣ ﺓﺮﺘﻓ ﻞﻛ ﺔﺣﺍﺮﺘﺳﺍ ﻚﻳﺮﻤﻌﺘﺴﻣ ﺢﻨﻣﺍ",
 		"polish": "Daj koloniście przerwę raz na jakiś czas, aby mogli odpocząć.",
 		"italian": "Concedi una pausa ai tuoi coloni ogni tanto, in modo che possano riposarsi un po'.",
+		"thai": "ให้คนในอาณานิคมพักบ้างเป็นระยะ เพื่อที่จะฟื้นคืนพลัง",
 	},
 	"needsDescriptionHealth": {
 		"english": "Let your colonists sleep and or give them healing potions to increase their health.",
@@ -371,6 +395,7 @@
 		"arabic": ".ﻢﻬﺘﺤﺻ ﺓﺩﺎﻳﺰﻟ ﺀﺎﻔﺷ ﺕﺎﻋﺮﺟ ﻢﻬﻄﻋﺃ ﻭﺃ ﻡﻮﻨﻟﺎﺑ ﻦﻳﺮﻤﻌﺘﺴﻤﻠﻟ ﺢﻤﺳﺍ",
 		"polish": "Pozwól Twoim kolonistom spać lub daj im mikstury lecznicze, by zwiększyć ich zdrowie.",
 		"italian": "Fai dormire i tuoi coloni e/o dai loro pozioni curative per ripristinare la loro salute.",
+		"thai": "ให้คนในอาณานิคมของคุณนอนหลับ และ/หรือให้ยารักษาเพื่อรักษาสุขภาพ",
 	},
 	"foodRations": {
 		"english": "Food Rations",
@@ -387,6 +412,7 @@
 		"arabic": "ﻡﺎﻌﻄﻟﺍ ﺺﺼﺣ",
 		"polish": "Racje żywnościowe",
 		"italian": "Razioni di cibo",
+		"thai": "ปันส่วนอาหาร",
 	},
 	"thoughts": {
 		"english": "Thoughts",
@@ -403,6 +429,7 @@
 		"arabic": "ﺭﺎﻜﻓﻷﺍ",
 		"polish": "Myśli",
 		"italian": "Pensieri",
+		"thai": "ความคิด",
 	},
 	"personality": {
 		"english": "Personality",
@@ -419,6 +446,7 @@
 		"arabic": "ﺔﻴﺼﺨﺸﻟﺍ",
 		"polish": "Osobowość",
 		"italian": "Personalità",
+		"thai": "อุปนิสัย",
 	},
 	"saveChanges": {
 		"english": "Save Changes",
@@ -435,6 +463,7 @@
 		"arabic": "ﺕﺍﺮﻴﻴﻐﺘﻟﺍ ﻆﻔﺣ",
 		"polish": "Zapisz zmiany",
 		"italian": "Salva cambiamenti",
+		"thai": "เซฟการเปลี่ยนแปลง",
 	},
 	"name": {
 		"english": "Name",
@@ -451,6 +480,7 @@
 		"arabic": "ﻢﺳﻻﺍ",
 		"polish": "Imię",
 		"italian": "Nome",
+		"thai": "ชื่อ",
 	},
 	"experience": {
 		"english": "Experience",
@@ -467,6 +497,7 @@
 		"arabic": "ﺓﺮﺒﺨﻟﺍ",
 		"polish": "Doświadczenie",
 		"italian": "Esperienza",
+		"thai": "ประสบการณ์",
 	},
 	"view": {
 		"english": "View",
@@ -483,6 +514,7 @@
 		"arabic": "ﺮﻈﻧﺍ",
 		"polish": "Zobacz",
 		"italian": "Mostra",
+		"thai": "มุมมอง",
 	},
 	"info": {
 		"english": "Info",
@@ -499,6 +531,7 @@
 		"arabic": "ﺕﺎﻣﻮﻠﻌﻣ",
 		"polish": "Info",
 		"italian": "Info",
+		"thai": "ข้อมูล",
 	},
 	"openWebsiteShort": {
 		"english": "Open",
@@ -515,6 +548,7 @@
 		"arabic": "ﺢﺘﻓﺍ",
 		"polish": "Otwórz",
 		"italian": "Apri",
+		"thai": "เปิด",
 	},
 	"dismiss": {
 		"english": "Ok",
@@ -531,6 +565,7 @@
 		"arabic": "ﺎﻨﺴﺣ",
 		"polish": "Ok",
 		"italian": "Ok",
+		"thai": "ตกลง",
 	},
 	"chooseNewJob": {
 		"english": "Choose New Job",
@@ -547,6 +582,7 @@
 		"arabic": "ﺓﺪﻳﺪﺟ ﺔﻔﻴﻇﻭ ﺮﺘﺧﺍ",
 		"polish": "Wybierz nowy zawód",
 		"italian": "Scegli nuovo lavoro",
+		"thai": "เลือกอาชีพใหม่",
 	},
 	"specialization": {
 		"english": "Specialization",
@@ -563,6 +599,7 @@
 		"arabic": "ﺺﺼﺨﺘﻟﺍ",
 		"polish": "Specjalizacja",
 		"italian": "Specializzazione",
+		"thai": "ความถนัดเฉพาะ",
 	},
 	"nextLevel": {
 		"english": "Next Level",
@@ -579,6 +616,7 @@
 		"arabic": "ﻲﻟﺎﺘﻟﺍ ﻯﻮﺘﺴﻤﻟﺍ",
 		"polish": "Następny poziom",
 		"italian": "Prossimo livello",
+		"thai": "ระดับต่อไป",
 	},
 	"experienceAcroynom": {
 		"english": "Exp",
@@ -595,6 +633,7 @@
 		"arabic": "ﺓﺮﺒﺧ",
 		"polish": "Xp",
 		"italian": "Esp",
+		"thai": "ปสก",
 	},
 	"changeProfession": {
 		"english": "Change",
@@ -611,6 +650,7 @@
 		"arabic": "ﺮﻴﻴﻐﺗ",
 		"polish": "Zmień",
 		"italian": "Cambia",
+		"thai": "เปลี่ยน",
 	},
 	"promote": {
 		"english": "Promote",
@@ -627,6 +667,7 @@
 		"arabic": "ﺔﻴﻗﺮﺗ",
 		"polish": "Awansuj",
 		"italian": "Promuovi",
+		"thai": "เลื่อนขั้น",
 	},
 	"promototions_Title": {
 		"english": "Promotions",
@@ -643,6 +684,7 @@
 		"arabic": "ﺕﺎﻴﻗﺮﺘﻟﺍ",
 		"polish": "Awanse",
 		"italian": "Promozioni",
+		"thai": "การเลี่ยนขั้น",
 	},
 	"promototions_Desc": {
 		"english": "Once your colonists gather enough experience in their profession, you can promote them to unlock new skills",
@@ -659,6 +701,7 @@
 		"arabic": "ﺓﺪﻳﺪﺟ ﺕﺍﺭﺎﻬﻣ ﺢﺘﻔﻟ ﻢﻬﺘﻴﻗﺮﺗ ﻚﻨﻜﻤﻳ ، ﻢﻬﺘﻨﻬﻣ ﻲﻓ ﺔﻴﻓﺎﻛ ﺓﺮﺒﺧ ﻙﻭﺮﻤﻌﺘﺴﻣ ﻊﻤﺠﻳ ﻥﺃ ﺩﺮﺠﻤﺑ",
 		"polish": "Kiedy Twoi koloniści uzbierają wystarczajaco doświadczenia w swoim zawodzie, możesz ich awansować, by odblokować im nowe umiejętności.",
 		"italian": "Una volta che i tuoi coloni hanno acquisito sufficiente esperienza nella loro professione, puoi promuoverli per sbloccare nuove abilità.",
+		"thai": "เมื่อคนในอาณานิคมของคุณสะสมประสบการณ์จนเพียงพอในสายอาชีพของตน คุณสามารถเลื่อนขั้นให้เพื่อปลดทักษะใหม่ได้",
 	},
 	"combat": {
 		"english": "Combat",
@@ -675,6 +718,7 @@
 		"arabic": "ﻝﺎﺘﻘﻟﺍ",
 		"polish": "Walka",
 		"italian": "Combatti",
+		"thai": "การต่อสู้",
 	},
 	"equipment": {
 		"english": "Equipment",
@@ -691,6 +735,7 @@
 		"arabic": "ﺕﺍﺪﻌﻤﻟﺍ",
 		"polish": "Ekwipunek",
 		"italian": "Equipaggiamento",
+		"thai": "อุปกรณ์",
 	},
 	"tool": {
 		"english": "Tool",
@@ -707,6 +752,7 @@
 		"arabic": "ﺕﺍﻭﺩﻷﺍ",
 		"polish": "Narzędzie",
 		"italian": "Strumento",
+		"thai": "เครื่องมือ",
 	},
 	"clothing": {
 		"english": "Clothing",
@@ -723,6 +769,7 @@
 		"arabic": "ﺲﺑﻼﻤﻟﺍ",
 		"polish": "Ubranie",
 		"italian": "Abito",
+		"thai": "ชุดสวมใส่",
 	},
 	"damage": {
 		"english": "Damage",
@@ -739,6 +786,7 @@
 		"arabic": "ﺭﺮﻀﻟﺍ",
 		"polish": "Obrażenia",
 		"italian": "Danno",
+		"thai": "ความเสียหาย",
 	},
 	"protection": {
 		"english": "Protection",
@@ -755,6 +803,7 @@
 		"arabic": "ﺔﻳﺎﻤﺤﻟﺍ",
 		"polish": "Ochrona",
 		"italian": "Protezione",
+		"thai": "การป้องกัน",
 	},
 	"Spring": {
 		"english": "Spring",
@@ -771,6 +820,7 @@
 		"arabic": "ﻊﻴﺑﺮﻟﺍ",
 		"polish": "Wiosna",
 		"italian": "Primavera",
+		"thai": "ฤดูใบไม้ผลิ",
 	},
 	"Summer": {
 		"english": "Summer",
@@ -787,6 +837,7 @@
 		"arabic": "ﻒﻴﺼﻟﺍ",
 		"polish": "Lato",
 		"italian": "Estate",
+		"thai": "ฤดูร้อน",
 	},
 	"Fall": {
 		"english": "Fall",
@@ -803,6 +854,7 @@
 		"arabic": "ﻒﻳﺮﺨﻟﺍ",
 		"polish": "Jesień",
 		"italian": "Autunno",
+		"thai": "ฤดูใบไม้ร่วง",
 	},
 	"Winter": {
 		"english": "Winter",
@@ -819,6 +871,7 @@
 		"arabic": "ﺀﺎﺘﺸﻟﺍ",
 		"polish": "Zima",
 		"italian": "Inverno",
+		"thai": "ฤดูหนาว",
 	},
 	"seasons": {
 		"english": "Seasons",
@@ -835,6 +888,7 @@
 		"arabic": "ﻝﻮﺼﻔﻟﺍ",
 		"polish": "Pory roku",
 		"italian": "Stagioni",
+		"thai": "ฤดู",
 	},
 	"seasonsDescription": {
 		"english": "This bar shows how much time is left until the seasons change.",
@@ -851,6 +905,7 @@
 		"arabic": ".ﻢﺳﺍﻮﻤﻟﺍ ﺮﻴﻐﺘﺗ ﻰﺘﺣ ﻲﻘﺒﺘﻤﻟﺍ ﺖﻗﻮﻟﺍ ﺭﺍﺪﻘﻣ ﻂﻳﺮﺸﻟﺍ ﺍﺬﻫ ﺢﺿﻮﻳ",
 		"polish": "Ten pasek pokazuje jak dużo zostało do zmiany pory roku.",
 		"italian": "Questa barra mostra quanto tempo rimane prima che la stagione cambi.",
+		"thai": "แถบนี้แสดงถึงเวลาที่เหลืออยู่จนกว่าจะเปลี่ยนฤดูกาล",
 	},
 	"wishPointsTip_Title": {
 		"english": "Satisfaction Points",
@@ -867,6 +922,7 @@
 		"arabic": "ﺎﺿﺮﻟﺍ ﻁﺎﻘﻧ",
 		"polish": "Punkty zadowolenia",
 		"italian": "Punti soddisfazione",
+		"thai": "แต้มความพึงพอใจ",
 	},
 	"wishPointsTip_Desc": {
 		"english": "Every fulfilled wish makes your colonist more satisfied with life.",
@@ -883,6 +939,7 @@
 		"arabic": ".ﺓﺎﻴﺤﻟﺍ ﻦﻋ ﺎﻴﺿﺍﺭ ﻙﺮﻤﻌﺘﺴﻣ ﻞﻌﺠﺗ ﻖﻘﺤﺘﺗ ﺔﻴﻨﻣﺃ ﻞﻛ",
 		"polish": "Każde wypełnione życzenie sprawia, że twój kolonista jest bardziej zadowolony z życia.",
 		"italian": "Ogni desiderio realizzato rende il tuo colono più soddisfatto della vita.",
+		"thai": "การเติมเต็มความประสงค์ทุกๆ ครั้งจะทำให้คนในอาณานิคมพึงพอใจในชีวิต",
 	},
 	"wishDenyTip_Title": {
 		"english": "Deny Wish",
@@ -899,6 +956,7 @@
 		"arabic": "ﺔﻴﻨﻣﻷﺍ ﺾﻓﺭ",
 		"polish": "Odmów życzenia",
 		"italian": "Nega desiderio",
+		"thai": "ปฏิเสธความประสงค์",
 	},
 	"wishDenyTip_Desc": {
 		"english": "You can tell your colonists that you're not going to fulfill this wish. They'll be annoyed, but they will choose a different one.",
@@ -915,6 +973,7 @@
 		"arabic": ".ﺎًﻔﻠﺘﺨﻣ ﺎًﻋﻮﻧ ﻥﻭﺭﺎﺘﺨﻴﺳ ﻢﻬﻨﻜﻟ ، ﻥﻮﻘﻳﺎﻀﺘﻴﺳ .ﺔﺒﻏﺮﻟﺍ ﻩﺬﻬﺑ ﻲﻔﺗ ﻦﻟ ﻚﻧﺃ ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ﺭﺎﺒﺧﺇ ﻚﻨﻜﻤﻳ",
 		"polish": "Możesz powiedzieć twojemu koloniście, że nie wypełnisz jego życzenia. Będą oni zdenerwowani, ale zmienią oni swoje życzenie na inne.",
 		"italian": "Puoi dire ai tuoi coloni che non esaudirai questo desiderio. Rimarranno infastiditi, ma ne sceglieranno uno diverso.",
+		"thai": "คุณสามารถบอกคนในอาณานิคมของคุณว่าจะไม่เติมเต็มความประสงค์นี้ พวกเขาจะรำคาญบ้าง แต่ก็จะเลือกความประสงค์อันใหม่",
 	},
 	"satisfactionPoints_Title": {
 		"english": "Satisfaction",
@@ -931,6 +990,7 @@
 		"arabic": "ﺎﺿﺮﻟﺍ",
 		"polish": "Zadowolenie",
 		"italian": "Soddisfazione",
+		"thai": "ความพึงพอใจ",
 	},
 	"satisfactionPoints_Desc": {
 		"english": "Fulfill your colonists' wishes and they will be satisfied with life. When the bar is full they gets one lifetime satisfaction point.",
@@ -947,6 +1007,7 @@
 		"arabic": ".ﺓﺎﻴﺤﻟﺍ ﻯﺪﻣ ﺎﺿﺭ ﺔﻄﻘﻧ ﻰﻠﻋ ﻞﺼﺤﻳ ، ﺎًﺌﻠﺘﻤﻣ ﻂﻳﺮﺸﻟﺍ ﻥﻮﻜﻳ ﺎﻣﺪﻨﻋ .ﺓﺎﻴﺤﻟﺎﺑ ﻥﻮﺿﺮﻳ ﻑﻮﺳﻭ ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ﺕﺎﻴﻨﻣﺃ ﻖﻘﺣ",
 		"polish": "Wypełnij życzenia swoich kolonistów, a będą oni zadowoleni z życia. Kiedy pasek jest pełen otrzymują oni jeden punkt zadowolenia życiowego.",
 		"italian": "Soddisfa i desideri dei tuoi coloni e rimarranno soddisfatti della vita. Quando la barra è piena, ottengono un punto soddisfazione per tutta la vita.",
+		"thai": "เมื่อเติมเต็มความประสงค์ของคนในอาณานิคม พวกเขาจะพึงพอใจกับชีวิต เมื่อแถบนี้เต็มแล้วพวกเขาจะได้รับแต้มความพึงพอใจในชีวิตหนึ่งแต้ม",
 	},
 	"satisfactionLevel_Title": {
 		"english": "Satisfaction Level",
@@ -963,6 +1024,7 @@
 		"arabic": "ﺎﺿﺮﻟﺍ ﻯﻮﺘﺴﻣ",
 		"polish": "Poziom zadowolenia",
 		"italian": "Livello di soddisfazione",
+		"thai": "ระดับความพึงพอใจ",
 	},
 	"satisfactionLevel_Desc": {
 		"english": "Represents the total lifetime satisfaction of your colonist.",
@@ -979,6 +1041,7 @@
 		"arabic": "ﻪﺗﺎﻴﺣ ﻝﻼﺧ ﻲﻠﻜﻟﺍ ﺮﻤﻌﺘﺴﻤﻟﺍ ﺎﺿﺭ ﻞﺜﻤﻳ",
 		"polish": "Reprezentuje łączną liczbę punktów zadowolenia życiowego.",
 		"italian": "Rappresenta la soddisfazione nell'intero arco di vita del tuo colono.",
+		"thai": "แสดงถึงความพึงพอใจทั้งหมดในช่วงชีวิตของคนนั้นๆ ในอาณานิคม",
 	},
 	"promotions_Title": {
 		"english": "Promotions",
@@ -995,6 +1058,7 @@
 		"arabic": "ﺕﺎﻴﻗﺮﺘﻟﺍ",
 		"polish": "Awanse",
 		"italian": "Promozioni",
+		"thai": "การเลื่อนขั้น",
 	},
 	"promotions_Desc": {
 		"english": "Once your colonists have gathered enough Experience, you can promote them to unlock new skills.",
@@ -1011,6 +1075,7 @@
 		"arabic": ".ﺓﺪﻳﺪﺟ ﺕﺍﺭﺎﻬﻣ ﺢﺘﻔﻟ ﻢﻬﺘﻴﻗﺮﺗ ﻚﻨﻜﻤﻳ ، ﺓﺮﺒﺨﻟﺍ ﻦﻣ ﻲﻔﻜﻳ ﺎﻣ ﻚﻳﺪﻟ ﻥﻭﺮﻤﻌﺘﺴﻤﻟﺍ ﻊﻤﺠﻳ ﻥﺃ ﺩﺮﺠﻤﺑ",
 		"polish": "Kiedy Twoi kolońsici zbiorą wystarczająco punktów doświadczenia, możesz dać im awans, aby odblokować im nowe umiejętności.",
 		"italian": "Una volta che i tuoi coloni hanno guadagnato abbastanza esperienza, puoi promuoverli per sbloccare nuove abilità.",
+		"thai": "เมื่อคนในอาณานิคมของคุณสะสมประสบการณ์จนเพียงพอ คุณสามารถที่จะเลื่อนขั้นให้พวกเขาเพื่อปลดทักษะใหม่ได้",
 	},
 	"productionMode_Produce": {
 		"english": "Produce",
@@ -1027,6 +1092,7 @@
 		"arabic": "ﺝﺎﺘﻧﺇ",
 		"polish": "Produkuj",
 		"italian": "Produci",
+		"thai": "ผลิต",
 	},
 	"productionMode_ProduceInfinite": {
 		"english": "Produce Infinite",
@@ -1043,6 +1109,7 @@
 		"arabic": "ﺔﻳﺎﻬﻧ ﻼﺑ ﺝﺎﺘﻧﺇ",
 		"polish": "Produkuj w nieskończoność",
 		"italian": "Produzione infinita",
+		"thai": "ผลิตอย่างไร้จำกัด",
 	},
 	"productionMode_KeepInStock": {
 		"english": "Keep in Stock",
@@ -1059,6 +1126,7 @@
 		"arabic": "إبقاء في المخازن",
 		"polish": "Trzymaj w zapasie",
 		"italian": "Conserva scorte",
+		"thai": "เก็บในคลัง",
 	},
 	"cost": {
 		"english": "Cost",
@@ -1075,6 +1143,7 @@
 		"arabic": "ﺔﻔﻠﻜﺘﻟﺍ",
 		"polish": "Koszt",
 		"italian": "Costo",
+		"thai": "ค่าใช้จ่าย",
 	},
 	"totalCost": {
 		"english": "Total Cost",
@@ -1091,6 +1160,7 @@
 		"arabic": "ﺔﻴﻠﻜﻟﺍ ﺔﻔﻠﻜﺘﻟﺍ",
 		"polish": "Łączny koszt",
 		"italian": "Costo totale",
+		"thai": "ค่าใช้จ่ายทั้งหมด",
 	},
 	"costPerItem": {
 		"english": "Cost per Item",
@@ -1107,6 +1177,7 @@
 		"arabic": "ﺪﺣﺍﻮﻠﻟ ﺔﻔﻠﻜﺘﻟﺍ",
 		"polish": "Koszt za jednostkę",
 		"italian": "Costo per oggetto",
+		"thai": "ค่าใช้จ่ายต่อชิ้น",
 	},
 	"colonySettings": {
 		"english": "Colony Settings",
@@ -1123,6 +1194,7 @@
 		"arabic": "ﺓﺮﻤﻌﺘﺴﻤﻟﺍ ﺕﺍﺩﺍﺪﻋﺇ",
 		"polish": "Ustawienia kolonii",
 		"italian": "Impostazioni colonia",
+		"thai": "การปรับแต่งอาณานิคม",
 	},
 	"onlyCutDesignatedTrees": {
 		"english": "Only cut designated trees",
@@ -1139,6 +1211,7 @@
 		"arabic": "ﻂﻘﻓ ﺓﺩﺪﺤﻤﻟﺍ ﺭﺎﺠﺷﻷﺍ ﻊﻄﻗ",
 		"polish": "Wycinaj tylko zaznaczone drzewa",
 		"italian": "Taglia solo alberi designati",
+		"thai": "ตัดแค่ต้นไม้ที่กำหนด",
 	},
 	"onlyMineDesignatedRocksOres": {
 		"english": "Only mine designated rocks/ores",
@@ -1155,6 +1228,7 @@
 		"arabic": "ﻂﻘﻓ ﺓﺩﺪﺤﻤﻟﺍ ﺪﻳﺪﺤﻟﺍ/ﺭﻮﺨﺼﻟﺍ ﻦﻋ ﺐﻴﻘﻨﺘﻟﺍ",
 		"polish": "Wydobywaj tylko wybrane kamienie/rudy",
 		"italian": "Estrai solo le rocce e i minerali designati",
+		"thai": "ขุดแค่หิน/แร่ที่กำหนด",
 	},
 	"onlyGatherDesignatedPlants": {
 		"english": "Only gather designated plants",
@@ -1171,6 +1245,7 @@
 		"arabic": "ﻂﻘﻓ ﺓﺩﺪﺤﻤﻟﺍ ﺕﺎﺗﺎﺒﻨﻟﺍ ﻊﻤﺟ",
 		"polish": "Zbieraj tylko wybrane roślin",
 		"italian": "Raccogli solo le piante designate",
+		"thai": "เก็บเกี่ยวแค่พืชพรรณที่กำหนด",
 	},
 	"designations": {
 		"english": "Designations",
@@ -1187,6 +1262,7 @@
 		"arabic": "ﺕﺎﻨﻴﻴﻌﺘﻟﺍ",
 		"polish": "Oznaczenia",
 		"italian": "Designazioni",
+		"thai": "การกำหนด",
 	},
 	"designationTooltip_Title": {
 		"english": "Select specific resources to gather",
@@ -1203,6 +1279,7 @@
 		"arabic": "ﺎﻬﻌﻤﺠﻟ ﺓﺩﺪﺤﻣ ﺩﺭﺍﻮﻣ ﺩﺪﺣ",
 		"polish": "Zaznacz właściwe surowce do zbierania",
 		"italian": "Seleziona risorse specifiche da raccogliere",
+		"thai": "เลือกทรัพยากรเฉพาะเพื่อเก็บเกี่ยว",
 	},
 	"designationTooltip_Desc": {
 		"english": "With the designation tool you can restrict resource gathering to the objects you have marked with the tool. The colonists are only going to work on designated objects automatically.",
@@ -1219,6 +1296,7 @@
 		"arabic": ".ﺓﺍﺩﻷﺍ ﻡﺍﺪﺨﺘﺳﺎﺑ ﺎﻫﺰﻴﻴﻤﺘﺑ ﺖﻤﻗ ﻲﺘﻟﺍ ﺕﺎﻨﺋﺎﻜﻟﺍ ﻰﻠﻋ ﺩﺭﺍﻮﻤﻟﺍ ﻊﻴﻤﺠﺗ ﺪﻴﻴﻘﺗ ﻚﻨﻜﻤﻳ ، ﻦﻴﻴﻌﺘﻟﺍ ﺓﺍﺩﺃ ﻡﺍﺪﺨﺘﺳﺎﺑ",
 		"polish": "Z narzędziem oznaczania możesz ograniczyć zbieranie surowców, do obiektów, które zaznaczono przy pomocy narzędzia. Koloniści będą pracować tylko z oznaczonymi obiektami automatycznie.",
 		"italian": "Con lo strumento di designazione è possibile limitare la raccolta delle risorse agli oggetti contrassegnati tramite lo strumento. I coloni lavoreranno automaticamente solo sugli oggetti designati."
+		"thai": "ด้วยเครื่องมือกำหนดนี้ คุณสามารถที่จะจำกัดการเก็บเกี่ยวไว้แค่สิ่งที่ทำเครื่องหมายไว้ด้วยเครื่องมือ คนในอาณานิคมจะไปทำงานกับแค่สิ่งที่กำหนดไว้โดยอัตโนมัติ",
 	},
 	"combatModeTooltip_Title": {
 		"english": "Combat Mode",
@@ -1235,6 +1313,7 @@
 		"arabic": "ﻝﺎﺘﻘﻟﺍ ﻊﺿﻭ",
 		"polish": "Tryb walki",
 		"italian": "Modalità battaglia",
+		"thai": "โหมดต่อสู้",
 	},
 	"combatModeTooltip_Desc": {
 		"english": "In combat mode, your colonists will put on their combat equipment and stop working on their jobs, relaxing, or talking with others. This allows you to control them more easily in battle.",
@@ -1251,6 +1330,7 @@
 		"arabic": ".ﺔﻛﺮﻌﻤﻟﺍ ﻲﻓ ﺮﺒﻛﺃ ﺔﻟﻮﻬﺴﺑ ﻢﻬﺑ ﻢﻜﺤﺘﻟﺍ ﻚﻟ ﺢﻴﺘﻳ ﺍﺬﻫ .ﻦﻳﺮﺧﻵﺍ ﻊﻣ ﺙﺪﺤﺘﻟﺍ ﻭﺃ ﺀﺎﺧﺮﺘﺳﻻﺍ ﻭﺃ ﻢﻬﻔﺋﺎﻇﻭ ﻲﻓ ﻞﻤﻌﻟﺍ ﻦﻋ ﻒﻗﻮﺘﻟﺍﻭ ﺔﻴﻟﺎﺘﻘﻟﺍ ﻢﻬﺗﺍﺪﻌﻣ ﻡﺍﺪﺨﺘﺳﺎﺑ ﻥﻭﺮﻤﻌﺘﺴﻤﻟﺍ ﻡﻮﻘﻴﺳ ، ﻝﺎﺘﻘﻟﺍ ﻊﺿﻭ ﻲﻓ",
 		"polish": "W trybie walki, Twoi koloniści ubiorą swój ubiór do walki i przestaną wykonywać swoje zadania, relaksować się albo rozmawiać ze sobą. Pozwali Ci to kotrolować kolonistów znacznie łatwiej w walce.",
 		"italian": "In modalità battaglia i tuoi coloni indosseranno il loro equipaggiamento da combattimento e smetteranno di lavorare, di rilassarsi o di parlare con gli altri. Ciò ti consente di controllarli più facilmente in battaglia.",
+		"thai": "ในโหมดต่อสู้ คนในอาณานิคมของคุณจะหยิบเอาอุปกรณ์การรบมาและหยุดการทำงาน การพักผ่อน หรือการพูดคุยกับคนอื่นๆ ซึ่งจะทำให้คุณควบคุมได้ง่ายขึ้นในการรบ",
 	},
 	"gameInfoAndStats": {
 		"english": "Game Info and Stats",
@@ -1267,6 +1347,7 @@
 		"arabic": "ﺔﺒﻌﻠﻟﺍ ﺕﺎﻴﺋﺎﺼﺣﺇﻭ ﺕﺎﻣﻮﻠﻌﻣ",
 		"polish": "Informacje o grze i statystyki",
 		"italian": "Info di gioco e statistiche",
+		"thai": "ข้อมูลเกมและสถิติ",
 	},
 	"difficulty": {
 		"english": "Difficulty",
@@ -1283,6 +1364,7 @@
 		"arabic": "ﺔﺑﻮﻌﺼﻟﺍ",
 		"polish": "Trudność",
 		"italian": "Difficoltà",
+		"thai": "ความยาก",
 	},
 	"colonyWealth": {
 		"english": "Colony Wealth",
@@ -1299,6 +1381,7 @@
 		"arabic": "ﺓﺮﻤﻌﺘﺴﻤﻟﺍ ﺓﻭﺮﺛ",
 		"polish": "Bogactwo kolonii",
 		"italian": "Ricchezza colonia",
+		"thai": "ความร่ำรวยของอาณานิคม",
 	},
 	"colonistHappiness": {
 		"english": "Colonist Happiness",
@@ -1315,6 +1398,7 @@
 		"arabic": "ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ﺓﺩﺎﻌﺳ",
 		"polish": "Szczęście kolonii",
 		"italian": "Felicità colono",
+		"thai": "ความสุขของคนในอาณานิคม",
 	},
 	"worldId": { // You can just translate it to "world". It needs to be short enough
 		"english": "World ID",
@@ -1331,6 +1415,7 @@
 		"arabic": "ID ﻢﻟﺎﻌﻟﺍ",
 		"polish": "ID świata",
 		"italian": "ID mondo",
+		"thai": "ไอดีของโลก",
 	},
 	"beauty": {
 		"english": "Beauty",
@@ -1347,6 +1432,7 @@
 		"arabic": "ﻝﺎﻤﺠﻟﺍ",
 		"polish": "Piękno",
 		"italian": "Bellezza",
+		"thai": "ความสวยงาม",
 	},
 	"objectStrength": { // to describe how difficult it is to destruct an object, like a wall, in a fight
 		"english": "Strength",
@@ -1363,6 +1449,7 @@
 		"korean": "내구도",
 		"italian": "Robustezza",
 		"chinese": "力量",
+		"thai": "ความแข็งแกร่ง",
 	},
 	"work": {
 		"english": "Work",
@@ -1379,6 +1466,7 @@
 		"arabic": "ﻞﻤﻌﻟﺍ",
 		"polish": "Praca",
 		"italian": "Lavoro",
+		"thai": "งาน",
 	},
 	"farming": {
 		"english": "Farming",
@@ -1395,6 +1483,7 @@
 		"arabic": "ﺔﻋﺍﺭﺰﻟﺍ",
 		"polish": "Rolnictwo",
 		"italian": "Coltivazione",
+		"thai": "การเกษตร",
 	},
 	"life": {
 		"english": "Life",
@@ -1411,6 +1500,7 @@
 		"arabic": "ﺓﺎﻴﺤﻟﺍ",
 		"polish": "Życie",
 		"italian": "Vita",
+		"thai": "ชีวิต",
 	},
 	"military": {
 		"english": "Military",
@@ -1427,6 +1517,7 @@
 		"arabic": "ﺶﻴﺠﻟﺍ",
 		"polish": "Wojskowe",
 		"italian": "Militare",
+		"thai": "การทหาร",
 	},
 	"lights": {
 		"english": "Lights",
@@ -1443,6 +1534,7 @@
 		"arabic": "ﺀﺍﻮﺿﻷﺍ",
 		"polish": "Światła",
 		"italian": "Luci",
+		"thai": "แสงสว่าง",
 	},
 	"seating": {
 		"english": "Seating",
@@ -1459,6 +1551,7 @@
 		"arabic": "ﺪﻋﺎﻘﻤﻟﺍ",
 		"polish": "Siedzenia",
 		"italian": "Sedie",
+		"thai": "ที่นั่ง",
 	},
 	"tables": {
 		"english": "Tables",
@@ -1475,6 +1568,7 @@
 		"arabic": "ﺕﻻﻭﺎﻄﻟﺍ",
 		"polish": "Stoły",
 		"italian": "Tavoli",
+		"thai": "โต๊ะ",
 	},
 	"storage": {
 		"english": "Storage",
@@ -1491,6 +1585,7 @@
 		"arabic": "ﻦﻳﺰﺨﺘﻟﺍ",
 		"polish": "Przechowywanie",
 		"italian": "Deposito",
+		"thai": "คลัง",
 	},
 	"decoration": {
 		"english": "Decoration",
@@ -1507,6 +1602,7 @@
 		"arabic": "ﺭﻮﻜﻳﺪﻟﺍ",
 		"polish": "Dekoracje",
 		"italian": "Decorazione",
+		"thai": "การตกแต่ง",
 	},
 	"rugs": {
 		"english": "Rugs",
@@ -1519,6 +1615,7 @@
 		"italian": "Tappeti",
 		"korean": "러그",
 		"chinese": "地毯",
+		"thai": "พรม",
 	},
 	"floors": {
 		"english": "Floors",
@@ -1535,6 +1632,7 @@
 		"arabic": "ﺕﺎﻴﺿﺭﻷﺍ",
 		"polish": "Podłogi",
 		"italian": "Pavimenti",
+		"thai": "พื้น",
 	},
 	"walls": {
 		"english": "Walls",
@@ -1551,6 +1649,7 @@
 		"arabic": "ﻥﺍﺭﺪﺠﻟﺍ",
 		"polish": "Ściany",
 		"italian": "Pareti",
+		"thai": "ผนัง",
 	},
 	"fortifications": {
 		"english": "Fortifications",
@@ -1567,6 +1666,7 @@
 		"arabic": "ﺕﺎﻨﻴﺼﺤﺘﻟﺍ",
 		"polish": "Fortyfikacje",
 		"italian": "Fortificazioni",
+		"thai": "รั้วปราการ",
 	},
 	"doors": {
 		"english": "Doors",
@@ -1583,6 +1683,7 @@
 		"arabic": "ﺏﺍﻮﺑﻷﺍ",
 		"polish": "Drzwi",
 		"italian": "Porte",
+		"thai": "ประตู",
 	},
 	"windows": {
 		"english": "Windows",
@@ -1599,6 +1700,7 @@
 		"arabic": "ﺬﻓﺍﻮﻨﻟﺍ",
 		"polish": "Okna",
 		"italian": "Finestre",
+		"thai": "หน้าต่าง",
 	},
 	"pillars": {
 		"english": "Pillars",
@@ -1615,6 +1717,7 @@
 		"arabic": "ﺓﺪﻤﻋﻷﺍ",
 		"polish": "Filary",
 		"italian": "Colonne",
+		"thai": "เสา",
 	},
 	"requiredTech": {
 		"english": "Required Technology",
@@ -1631,6 +1734,7 @@
 		"arabic": "ﺔﺑﻮﻠﻄﻤﻟﺍ ﺔﻴﻨﻘﺘﻟﺍ",
 		"polish": "Wymagana technologia",
 		"italian": "Tecnologia richiesta",
+		"thai": "นวัตกรรมที่จำเป็น",
 	},
 	"interactionChainIconDesc": {
 		"english": "Click to Cancel.\nClick %keyBinding% to Chain Commands.",
@@ -1647,6 +1751,7 @@
 		// "arabic": "",
 		"polish": "Naciśnij, aby anulować.\nKliknij %keyBinding% do łańcucha poleceń.",
 		"italian": "Clicca per annullare.\nClicca %keyBinding% per concatenare i comandi.",
+		"thai": "คลิกเพื่อยกเลิก\nคลิก %keyBinding% เพื่อโยงคำสั่ง",
 	},
 	"satisfaction": {
 		"english": "Satisfaction",
@@ -1663,6 +1768,7 @@
 		"arabic": "ﺎﺿﺮﻟﺍ",
 		"polish": "Zadowolenie",
 		"italian": "Soddisfazione",
+		"thai": "ความพึงพอใจ",
 	},
 	"rewards": {
 		"english": "Rewards",
@@ -1679,6 +1785,7 @@
 		"arabic": "ﺕﺂﻓﺎﻜﻤﻟﺍ",
 		"polish": "Nagrody",
 		"italian": "Ricompense",
+		"thai": "รางวัล",
 	},
 	"point": {
 		"english": "Point",
@@ -1695,6 +1802,7 @@
 		"arabic": "ﺔﻄﻘﻧ",
 		"polish": "Punkt",
 		"italian": "Punto",
+		"thai": "แต้ม",
 	},
 	"points": {
 		"english": "Points",
@@ -1711,6 +1819,7 @@
 		"arabic": "ﻁﺎﻘﻧ",
 		"polish": "Punkty",
 		"italian": "Punti",
+		"thai": "แต้ม",
 	},
 	"satisfactionRewards": {
 		"english": "Satisfaction Rewards",
@@ -1727,6 +1836,7 @@
 		"arabic": "ﺎﺿﺮﻟﺍ ﺕﺂﻓﺎﻜﻣ",
 		"polish": "Nagrody zadowolenia",
 		"italian": "Ricompense soddisfazione",
+		"thai": "รางวัลความพึงพอใจ",
 	},
 	"instantMaxHealth": {
 		"english": "Instant Max Health",
@@ -1743,6 +1853,7 @@
 		"arabic": "ﺔﻳﺭﻮﻓ ﺔﻠﻣﺎﻛ ﺔﺤﺻ",
 		"polish": "Natychmiastowe maksymalne zdrowie",
 		"italian": "Salute massima istantanea",
+		"thai": "สุขภาพสูงสุดทันที",
 	},
 	"cureIllness": {
 		"english": "Cure Illness",
@@ -1759,6 +1870,7 @@
 		"arabic": "ﺽﺮﻤﻟﺍ ﺝﻼﻋ",
 		"polish": "Wylecz chorobę",
 		"italian": "Cura malattia",
+		"thai": "รักษาอาการป่วย",
 	},
 	"motivationBoost": {
 		"english": "Motivation Boost",
@@ -1775,6 +1887,7 @@
 		"arabic": "ﺕﺎﻳﻮﻨﻌﻤﻟﺍ ﻢﻋﺩ",
 		"polish": "Zwiększenie motywacji",
 		"italian": "Incrementa motivazione",
+		"thai": "การเพิ่มแรงบันดาลใจ",
 	},
 	"forgetAllBadThoughts": {
 		"english": "Forget negative Thoughts",
@@ -1791,6 +1904,7 @@
 		"arabic": "ﺔﻴﺒﻠﺴﻟﺍ ﺭﺎﻜﻓﻷﺍ ﻥﺎﻴﺴﻧ",
 		"polish": "Zapomnij o negatywnych myślach",
 		"italian": "Dimentica pensieri negativi",
+		"thai": "ลืมความคิดที่ไม่ดี",
 	},
 	"activeTraits": {
 		"english": "Active Traits",
@@ -1807,6 +1921,7 @@
 		"arabic": "ﺔﻄﺸﻨﻟﺍ ﺕﺎﻤﺴﻟﺍ",
 		"polish": "Aktywne cechy",
 		"italian": "Tratti attivi",
+		"thai": "อุปนิสัยที่ใช้งานอยู่",
 	},
 	"availableTraits": {
 		"english": "Available Traits",
@@ -1823,6 +1938,7 @@
 		"arabic": "ﺓﺮﻓﻮﺘﻤﻟﺍ ﺕﺎﻤﺴﻟﺍ",
 		"polish": "Dostępne cechy",
 		"italian": "Tratti disponibili",
+		"thai": "อุปนิสัยที่เข้าถึงได้",
 	},
 	"sleepingSpot": {
 		"english": "Sleeping Spot",
@@ -1839,6 +1955,7 @@
 		"arabic": "ﻡﻮﻨﻠﻟ ﻥﺎﻜﻣ",
 		"polish": "Miejsce do spania",
 		"italian": "Luogo per dormire",
+		"thai": "จุดนอนหลับ",
 	},
 	"isInRoom": {
 		"english": "Is in room",
@@ -1855,6 +1972,7 @@
 		"arabic": "ﺔﻓﺮﻏ ﻲﻓ",
 		"polish": "Jest w pokoju",
 		"italian": "In una stanza",
+		"thai": "อยู่ในห้องหรือไม่",
 	},
 	"yes": {
 		"english": "Yes",
@@ -1871,6 +1989,7 @@
 		"arabic": "ﻢﻌﻧ",
 		"polish": "Tak",
 		"italian": "Sì",
+		"thai": "ใช่",
 	},
 	"no": {
 		"english": "No",
@@ -1887,6 +2006,7 @@
 		"arabic": "ﻻ",
 		"polish": "Nie",
 		"italian": "No",
+		"thai": "ไม่",
 	},
 	"bedroomBeauty": {
 		"english": "Bedroom beauty",
@@ -1903,6 +2023,7 @@
 		"arabic": "ﻡﻮﻨﻟﺍ ﺔﻓﺮﻏ ﻝﺎﻤﺟ",
 		"polish": "Piękno sypialni",
 		"italian": "Bellezza stanza",
+		"thai": "ความสวยงามของห้องนอน",
 	},
 	"houseBeauty": {
 		"english": "House beauty",
@@ -1919,6 +2040,7 @@
 		"arabic": "ﺖﻴﺒﻟﺍ ﻝﺎﻤﺟ",
 		"polish": "Piękno domu",
 		"italian": "Bellezza casa",
+		"thai": "ความสวยงามของบ้าน",
 	},
 	"owner": {
 		"english": "Owner",
@@ -1935,6 +2057,7 @@
 		"arabic": "ﻚﻟﺎﻤﻟﺍ",
 		"polish": "Właściciel",
 		"italian": "Padrone",
+		"thai": "เจ้าของ",
 	},
 	"nobody": {
 		"english": "Nobody",
@@ -1951,6 +2074,7 @@
 		"arabic": "ﺪﺣﺃ ﻻ",
 		"polish": "Nikt",
 		"italian": "Nessuno",
+		"thai": "ไม่มีใคร",
 	},
 	"immigration": {
 		"english": "Immigration",
@@ -1967,6 +2091,7 @@
 		"arabic": "ﺓﺮﺠﻬﻟﺍ",
 		"polish": "Imigracja",
 		"italian": "Immigrazione",
+		"thai": "การอพยพ",
 	},
 	"immigration_status_maxColonists": {
 		"english": "Your colony has reached its maximum size. Congratulations! Be sure to post a picture in the forums!",
@@ -1983,6 +2108,7 @@
 		//"arabic": "",
 		"polish": "Twoja kolonia osiągnęła swój maksymalny rozmiar. Gratulacje! Upewnij się, aby dodać post na naszym forum!",
 		"italian": "La tua colonia ha raggiunto la sua dimensione massima. Congratulazioni! Assicurati di pubblicare una foto nel forum!",
+		"thai": "อาณานิคมของคุณได้แตะถึงขนาดสูงสุดแล้ว ยินดีด้วย! อย่าลืมโพสต์รูปอวดในฟอรัมล่ะ!",
 	},
 	"immigration_status_noBonfire": {
 		"english": "No Bonfire is burning. Migrants are not able to find the colony.",
@@ -1999,6 +2125,7 @@
 		//"arabic": "",
 		"polish": "Brak płonącego ogniska. Migranci nie znajdą Twojej kolonii.",
 		"italian": "Nessun falò acceso. I migranti non sono in grado di individuare la colonia.",
+		"thai": "ไม่มีกองไฟยักษ์ที่ติดอยู่ ผู้อพยพไม่สามารถหาอาณานิคมได้พบ",
 	},
 	"immigration_status_expectationsNotMet": {
 		"english": "Your colonists' expectations are not met. No migrants are going to join this colony.",
@@ -2015,6 +2142,7 @@
 		//"arabic": "",
 		"polish": "Oczekiwania Twoich kolonistów nie są spełnione. Żaden nowy migrant nie dołączy do kolonii.",
 		"italian": "Le aspettative dei tuoi coloni non sono soddisfatte. Nessun migrante si unirà a questa colonia.",
+		"thai": "ความคาดหวังของคนในอาณานิคมของคุณนั้นไม่ถูกตอบสนอง ไม่มีผู้อพยพคนไหนที่อยากมาเข้าร่วมอาณานิคม",
 	},
 	"immigration_status_ok": {
 		"english": "All your colonists' expectations are met. Next chance for migrants in %time%.",
@@ -2031,6 +2159,7 @@
 		//"arabic": "",
 		"polish": "Oczekiwania wszystkich kolonistów są zrealizowane. Następna szansa na migrantów za %time%.",
 		"italian": "Tutte le aspettative dei tuoi coloni sono soddisfatte. Prossima opportunità di arrivo dei migranti in %time%.",
+		"thai": "ความคาดหวังของคนในอาณานิคมของคุณนั้นถูกตอบสนอง มีโอกาสที่ผู้อพยพจะมาในอีก %time%",
 	},
     	"colonistIsDumbNoExperience": {
 		"english": "Unfortunately, %firstName% is dumb and is not going to gain any experience in any job.",
@@ -2047,6 +2176,7 @@
 	   	//"arabic": "",
 	    	"polish": "Niestety, %firstName% jest głup%iA% i nie będzie zdobywać żadnego doświadczenia z żadnej pracy.",
 		"italian": "Sfortunatamente, %firstName% è ottuso e non acquisirà alcuna esperienza durante lo svolgimento di un lavoro.",
+		"thai": "โชคไม่ดีนักที่ %firstName% นั้นโง่ และไม่สามารถเพิ่มพูนประสบการณ์จากงานใดๆ ได้",
 	},
 	"importantPossessions": {
 		"english": "Important Possessions",
@@ -2063,6 +2193,7 @@
 		//"arabic": "",
 		"polish": "Istotne własności",
 		"italian": "Proprietà importanti",
+		"thai": "ของในครอบครองที่สำคัญ",
 	},
 	"importantPossession": {
 		"english": "Important Possession",
@@ -2079,6 +2210,7 @@
 		//"arabic": "",
 		"polish": "Istotna własność",
 		"italian": "Proprietà importante",
+		"thai": "ของในครอบครองที่สำคัญ",
 	},
 	"importantPossession_Desc": {
 		"english": "%name% likes this thing a lot and does not want to give it up.\n\nYou can not use it to fulfill anyone else's wishes.",
@@ -2095,6 +2227,7 @@
 		//"arabic": "",
 		"polish": "%name% lubi bardzo tą rzecz i nie chce się poddać. \n\nNie możesz tego użyć, aby wypełnić życzenie kogokolwiek innego.",		
 		"italian": "A %name% piace molto questa cosa e non vuole rinunciarvi.\n\nNon puoi usarlo per soddisfare i desideri di nessun altro.",
+		"thai": "%name% นั้นชอบของเหล่านี้มากๆ และไม่ต้องการจะยกให้ใคร\n\nคุณไม่สามารถใช้สิ่งเหล่านี้เพื่อเติมเต็มความประสงค์ของคนอื่นได้",
 	},
 	"paymentInCoinsPerDay": {
 		"english": "Payment in coins per day",
@@ -2111,6 +2244,7 @@
 		//"arabic": "",
 		"polish": "Wypłata w monetach na dzień",
 		"italian": "Pagamento in monete per giorno",
+		"thai": "รายได้เป็นเหรียญต่อวัน",
 	},
 	"civilianEquipment": {
 		"english": "Civilian Equipment",
@@ -2127,6 +2261,7 @@
 		//"arabic": "",
 		"polish": "Wyposażenie robocze",
 		"italian": "Tenuta civile",
+		"thai": "อุปกรณ์พลเรือน",
 	},
 	"combatEquipment": {
 		"english": "Combat Equipment",
@@ -2143,6 +2278,7 @@
 		//"arabic": "",
 		"polish": "Wyposażenie do walki",
 		"italian": "Tenuta da battaglia",
+		"thai": "อุปกรณ์การรบ",
 	},
 	"ToolStorage": { // these "x storage" texts describe a piece of furniture where you can put your personal sword/axe/armor to equip it later
 		"english": "Tool Storage",
@@ -2159,6 +2295,7 @@
 		//"arabic": "",
 		"polish": "Miejsce na narzędzie",
 		"italian": "Deposito strumento",
+		"thai": "คลังเครื่องมือ",
 	},
 	"ClothesStorage": {
 		"english": "Clothes Storage",
@@ -2175,6 +2312,7 @@
 		//"arabic": "",
 		"polish": "Miejsce na ubrania",
 		"italian": "Deposito abiti",
+		"thai": "คลังเสื้อผ้า",
 	},
 	"WeaponStorage": {
 		"english": "Weapon Storage",
@@ -2191,6 +2329,7 @@
 		//"arabic": "",
 		"polish": "Miejsce na broń",
 		"italian": "Deposito arma",
+		"thai": "คลังอาวุธ",
 	},
 	"ArmorStorage": {
 		"english": "Armor Storage",
@@ -2207,6 +2346,7 @@
 		//"arabic": "",
 		"polish": "Miejsce na zbroję",
 		"italian": "Deposito armatura",
+		"thai": "คลังชุดเกราะ",
 	},
 	"takeOwnershipOfStorageFurniture": {
 		"english": "Take Ownership of equipment storage furniture to assign equipment",
@@ -2223,6 +2363,7 @@
 		//"arabic": "",
 		"polish": "Przejmij własność tego mebla do trzymania ekwipunku, aby go założyć.",
 		"italian": "Assumi la proprietà dei mobili di deposito dell'equipaggiamento per assegnarlo",
+		"thai": "รับความเป็นเจ้าของเฟอร์นิเจอร์คลังอุปกรณ์เพื่อกำหนดอุปกรณ์ให้ใช้",
 	},
 	"selectEquipmentInStorageFurniture": {
 		"english": "Select equipment in the storage furniture",
@@ -2239,6 +2380,7 @@
 		//"arabic": "",
 		"polish": "Zaznacz ekwipunek w meblu do przechowywania",
 		"italian": "Seleziona l'equipaggiamento nei mobili di deposito",
+		"thai": "เลือกอุปกรณ์ในเฟอร์นิเจอร์คลัง",
 	},
 	"selectProduction": {
 		"english": "Select Production",
@@ -2255,6 +2397,7 @@
 		//"arabic": "",
 		"polish": "Wybierz produkcję",
 		"italian": "Seleziona produzione",
+		"thai": "เลือกการผลิต",
 	},
 	"noOwner": { // when a piece of furniture is not owned by any colonist
 		"english": "No Owner",
@@ -2271,6 +2414,7 @@
 		//"arabic": "",
 		"polish": "Brak właściciela",
 		"italian": "Nessun proprietario",
+		"thai": "ไม่มีใครครอบครอง",
 	},
 
 
@@ -2291,6 +2435,7 @@
 		//"arabic": "",
 		"polish": "Handlarz",
 		"italian": "Mercante",
+		"thai": "พ่อค้า",
 	},
 	"tradingWithFaction": {
 		"english": "Trading with '%faction%'",
@@ -2304,6 +2449,7 @@
 		"korean": "'%faction%'과 거래하기",
 		"turkish": "'%faction%' ile ticaret halinde",
 		"chinese": "与'%faction%'交易",
+		"thai": "ค้าขายกับ '%faction%'",
 	},
 	"colonyIsSelling": {
 		"english": "Colony is Selling to the Trader",
@@ -2320,6 +2466,7 @@
 		//"arabic": "",
 		"polish": "Kolonia sprzedaje handlarzowi",
 		"italian": "La colonia sta vendendo al mercante",
+		"thai": "อาณานิคมทำการขายของให้กับพ่อค้า",
 	},
 	"colonyIsBuying": {
 		"english": "Colony is Buying from the Trader",
@@ -2336,6 +2483,7 @@
 		//"arabic": "",
 		"polish": "Kolonia kupuje od handlarza",
 		"italian": "La colonia sta acquistando dal mercante",
+		"thai": "อาณานิคมทำการซื้อของจากพ่อค้า",
 	},
 	"amountStorage": { // amount means how much is being traded and in store is the maximum amount the colony or the trader has in store
 		"english": "Amount / In Store",
@@ -2352,6 +2500,7 @@
 		//"arabic": "",
 		"polish": "Ilość / W magazynie",
 		"italian": "Quantità / In deposito",
+		"thai": "จำนวน / ในคลัง",
 	},
 	"tradingGoodName": {
 		"english": "Name",
@@ -2368,6 +2517,7 @@
 		//"arabic": "",
 		"polish": "Nazwa",
 		"italian": "Nome",
+		"thai": "ชื่อ",
 	},
 	"price": {
 		"english": "Price",
@@ -2384,6 +2534,7 @@
 		//"arabic": "",
 		"polish": "Cena",
 		"italian": "Prezzo",
+		"thai": "ราคา",
 	},
 	"totalPrice": {
 		"english": "Total",
@@ -2400,6 +2551,7 @@
 		//"arabic": "",
 		"polish": "Łączna cena",
 		"italian": "Totale",
+		"thai": "รวมทั้งหมด",
 	},
 	"confirmTrade": {
 		"english": "Confirm Trade",
@@ -2416,6 +2568,7 @@
 		//"arabic": "",
 		"polish": "Potwierdź handel",
 		"italian": "Conferma scambio",
+		"thai": "ตกลงแลกเปลี่ยน",
 	},
 	"sellItemsOfValue": {
 		"english": "Buying items with a value of %coins% coins",
@@ -2432,6 +2585,7 @@
 		//"arabic": "",
 		"polish": "Sprzedajesz przedmioty o wartości %coins% monet",
 		"italian": "Vendendo oggetti con un valore di %coins% monete",
+		"thai": "ขายสินค้าเป็นมูลค่า %coins% เหรียญ",
 	},
 	"buyItemsOfValue": {
 		"english": "Buying items with a value of %coins% coins",
@@ -2448,6 +2602,7 @@
 		//"arabic": "",
 		"polish": "Kupujesz przedmiot o wartości %coins% monet",
 		"italian": "Comprando oggetti con un valore di %coins% monete",
+		"thai": "ซื้อสินค้าเป็นมูลค่า %coins% เหรียญ",
 	},
 	"colonyIsGainingCoins": {
 		"english": "The colony is gaining %coins% coins from this deal.",
@@ -2464,6 +2619,7 @@
 		//"arabic": "",
 		"polish": "Kolonia zarobi z tego handlu %coins% monet.",
 		"italian": "La colonia sta guadagnando %coins% monete da questo accordo.",
+		"thai": "อาณานิคมได้เงินเพิ่ม %coins% เหรียญจากข้อตกลง",
 	},
 	"colonyIsPayingCoins": {
 		"english": "The colony is paying %coins% coins for this deal.",
@@ -2480,6 +2636,7 @@
 		//"arabic": "",
 		"polish": "Kolonia płaci %coins% monet za ten handel.",
 		"italian": "La colonia sta pagando %coins% monete per questo accordo.",
+		"thai": "อาณานิคมต้องจ่ายเงินเพิ่ม %coins% เหรียญจากข้อตกลง",
 	},
 	"colonyDoesNotHaveCoins": {
 		"english": "The colony does not have %coins% coins to pay for this deal.",
@@ -2496,6 +2653,7 @@
 		//"arabic": "",
 		"polish": "Kolonia nie ma %coins% moent by dokonać handlu.",
 		"italian": "Questa colonia non ha %coins% monete per concludere questo accordo.",
+		"thai": "อาณานิคมไม่มีเงิน %coins% เหรียญเพื่อจ่ายให้กับข้อตกลง",
 	},
 
 
@@ -2514,6 +2672,7 @@
 		//"arabic": "",
 		"polish": "Albo nie wyprodukowano jeszcze żadnego ekwipunku\nAlbo wszystkie przedmioty są obecnie używane przez kolonistów.",
 		"italian": "O non hai prodotto ancora nessun equipaggiamento\noppure tutto il tuo equipaggiamento è attualmente in uso dai tuoi coloni.",
+		"thai": "คุณไม่ได้ผลิตอุปกรณ์ใดๆ ออกมาเลย\nหรืออุปกรณ์ทั้งหมดกำลังถูกใช้อยู่โดยคนในอาณานิคมของคุณเอง",
 	},
 	"sellPrice": {
 		"english": "Selling Price",
@@ -2530,6 +2689,7 @@
 		//"arabic": "",
 		"polish": "Cena sprzedaży",
 		"italian": "Prezzo di vendita",
+		"thai": "ราคาขาย",
 	},
 	"seconds": {
 		"english": "seconds",
@@ -2546,6 +2706,7 @@
 		//"arabic": "",
 		"polish": "sekund",
 		"italian": "secondi",
+		"thai": "วินาที",
 	},
 	"minutes": {
 		"english": "minutes",
@@ -2562,6 +2723,7 @@
 		//"arabic": "",
 		"polish": "minut",
 		"italian": "minuti",
+		"thai": "นาที",
 	},
 	"seconds": {
 		"english": "seconds",
@@ -2578,6 +2740,7 @@
 		//"arabic": "",
 		"polish": "sekund",
 		"italian": "secondi",
+		"thai": "วินาที",
 	},
 	"second_S": { // used for something like "remaining time: 154s". Should really be only one letter if at all possible
 		"english": "s",
@@ -2594,6 +2757,7 @@
 		//"arabic": "",
 		"polish": "s",
 		"italian": "s",
+		"thai": "วิ",
 	},
 	"second_Sec": { // optional longer abbreviation for seconds
 		"english": "sec",
@@ -2610,6 +2774,7 @@
 		//"arabic": "",
 		"polish": "sek",
 		"italian": "sec",
+		"thai": "วิ.",
 	},
 	"partiesTitle": {
 		"english": "Parties",
@@ -2626,6 +2791,7 @@
 		//"arabic": "",
 		"polish": "Imprezy",
 		"italian": "Feste",
+		"thai": "งานเลี้ยง",
 	},
 	"partiesDesc": {
 		"english": "Parties give your colonists a chance to relax and socialize. The more time your colonists spend dancing, eating, and drinking, the higher their mood is going to rise.",
@@ -2642,6 +2808,7 @@
 		"dutch": "Feesten geven je kolonisten een kans om te relaxen en elkaar beter te leren kennen. Hoe meer tijd je kolonisten besteden aan dansen, eten en drinken, hoe hoger hun humeur zal stijgen.",
 		"polish": "Imprezy dają kolonistom szanse na relaks i integrację. Im więcej czasu koloniści spędzą tańcząc, jedząc oraz pijąc, tym bardziej ich humor się poprawi.",
 		"italian": "Le feste offrono ai tuoi coloni la possibilità di rilassarsi e di socializzare. Più tempo i tuoi coloni trascorrono a ballare, a mangiare e a bere, più il loro umore aumenterà.",
+		"thai": "งานเลี้ยงจะเป็นโอกาสให้คนในอาณานิคมของคุณได้พักผ่อนและปฏิสัมพันธ์กัน ยิ่งคนใช้เวลากับการเต้น การทานและดื่ม อารมณ์ของพวกเขาก็จะยิ่งดีขึ้นตามไปด้วย",
 	},
 	"startPartyButton": {
 		"english": "Start Party",
@@ -2658,6 +2825,7 @@
 		//"arabic": "",
 		"polish": "Zacznij imprezę",
 		"italian": "Dai inizio alla festa",
+		"thai": "เริ่มงานเลี้ยง",
 	},
 	"cantStartPartyDuringReady": {
 		"english": "Can't start party during raid",
@@ -2674,6 +2842,7 @@
 		//"arabic": "",
 		"polish": "Nie można zacząć imprezy w trakcie najazdu",
 		"italian": "Non puoi dare inizio ad una festa durante un attacco",
+		"thai": "ไม่สามารถเริ่มงานเลี้ยงในระหว่างที่ถูกบุกรุกได้",
 	},
 	"cantStartPartyBecauseAlreadyPartying": {
 		"english": "Can't start party while colonists are already celebrating",
@@ -2690,6 +2859,7 @@
 		//"arabic": "",
 		"polish": "Nie można zacząć imprezy, ponieważ koloniści już się bawią",
 		"italian": "Non posso dare inizio ad una festa quando i coloni stanno già festeggiando",
+		"thai": "ไม่สามมรถเริ่มงานเลี้ยงในขณะที่คนในอาณานิคมกำลังเฉลิมฉลองได้",
 	},
 	"coinsToStartParty": {
 		"english": "%coins% Coins to start party",
@@ -2706,6 +2876,7 @@
 		//"arabic": "",
 		"polish": "%coins% monet by zacząć imprezę",
 		"italian": "%coins% monete per dare inizio alla festa",
+		"thai": "%coins% เหรียญเพื่อเริ่มงานเลี้ยง",
 	},
 	"atLeastBeerInStock": {
 		"english": "At least %beer% beer in stock",
@@ -2722,6 +2893,7 @@
 		//"arabic": "",
 		"polish": "Przynajmniej %beer% piwa w magazynie",
 		"italian": "Almeno %beer% unità di birra in deposito",
+		"thai": "อย่างน้อยต้องมีเบียร์ %beer% ในคลัง",
 	},
 	"atLeastFoodInStock": {
 		"english": "At least %food% food in stock",
@@ -2738,6 +2910,7 @@
 		//"arabic": "",
 		"polish": "Przynajmniej %food% jedzenia w magazynie",
 		"italian": "Almeno %food% unità di cibo in deposito",
+		"thai": "อย่างน้อยต้องมีอาหาร %food% ในคลัง",
 	},
 	"partyRequirements": {
 		"english": "Party Requirements",
@@ -2754,6 +2927,7 @@
 		//"arabic": "",
 		"polish": "Wymagania imprezowe",
 		"italian": "Requisiti festa",
+		"thai": "สิ่งที่จำเป็นของงานเลี้ยง",
 	},
 	"customCamera": { // activated with F4
 		"english": "Custom Camera", // or free-flying camera
@@ -2769,6 +2943,7 @@
 		//"arabic": "",
 		"polish": "Własna kamera",
 		"italian": "Telecamera libera",
+		"thai": "มุมกล้องอิสระ",
 	},
 	"customCameraHotkeys": {
 		"english": "Open/close info panel: R\nToggle wall movement: T\nCinematic mode: C\nChange camera speed: Mouse wheel\nUp and down: Left shift and left control",
@@ -2785,6 +2960,7 @@
 		//"arabic": "",
 		"polish": "Otwórz/zamknij panel informacyjny: R\nWłącz przesuwanie ścian: T\nTryb kinowy: C\nZmień szybkość kamery: Kółko myszki\nW Górę i w dół: Lewy shift i lewy control",
 		"italian": "Apri/chiudi pannello info: R\nAttiva/disattiva movimento parete: T\nModalità cinematografica: C\nCambia velocità telecamera: Rotella del mouse\nSu e giù: Shift sinistro e Ctrl sinistro",
+		"thai": "เปิด/ปิดหน้าต่างข้อมูล: R\nเปิด/ปิดการขยับของกำแพง: T\nโหมดภาพยนตร์: C\nเปลี่ยนความเร็วกล้อง: Mouse wheel\nขึ้นและลง: Left shift และ left control",
 	},
 	"camSpeed": {
 		"english": "Cam speed",
@@ -2801,6 +2977,7 @@
 		//"arabic": "",
 		"polish": "Szybkość kamery",
 		"italian": "Velocità telecamera",
+		"thai": "ความเร็วกล้อง",
 	},
 
 
