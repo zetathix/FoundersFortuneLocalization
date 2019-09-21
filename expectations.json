@@ -14,6 +14,7 @@
 		"polish": "Oczekiwania",
 		"korean": "기대",
 		"italian": "Aspettative",
+		"thai": "ความคาดหวัง",
 	},
 	"notUnlockedYet": {
 		"english": "Not unlocked yet",
@@ -30,6 +31,7 @@
 		"polish": "Jeszcze nieodblokowane",
 		"korean": "아직 풀리지 않음",
 		"italian": "Non ancora sbloccato",
+		"thai": "ยังไม่ได้ปลด",
 	},
 	"notRelevantYet_Title": {
 		"english": "Not relevant yet",
@@ -46,6 +48,7 @@
 		"polish": "Jeszcze nieistotne",
 		"korean": "아직 의미가 없음",
 		"italian": "Non ancora rilevante",
+		"thai": "ยังไม่เกี่ยวข้อง",
 	},
 	"notRelevantYet_Desc_home": {
 		"english": "%firstName% doesn't care about %hisHer% home at the moment.",
@@ -70,6 +73,7 @@
 		"polish": "%firstName% nie dba o dom w tej chwili.",
 		"korean": "%firstName%#{은} 아직 집에 대해 신경쓰지 않고 있습니다.",
 		"dutch":  "%firstName% Geeft niet om een huis nu dit ogenblik.",
+		"thai": "%firstName% นั้นไม่สนใจเกี่ยวกับบ้านของ %hisHer% ในตอนนี้",
 	},
 	"notRelevantYet_Desc_lifeSatisfaction": {
 		"english": "%firstName% doesn't care about Life Satisfaction at the moment.",
@@ -86,6 +90,7 @@
 		"polish": "%firstName% nie dba o zadowolenie z życia w tej chwili.",
 		"korean": "%firstName%#{은} 아직 기대하는 삶이 없습니다.",
 		"italian": "%firstName% non ha alcun interesse per la sua soddisfazione di vita al momento.",
+		"thai": "%firstName% นั้นไม่สนใจเกี่ยวกับความพึงพอใจในชีวิตในตอนนี้",
 	},
 	"notRelevantYet_Desc_promotions": {
 		"english": "%firstName% doesn't care about Promotions at the moment.",
@@ -102,6 +107,7 @@
 		"polish": "%firstName% nie dba o awans w tej chwili.",
 		"korean": "%firstName%#{은} 아직 진급에 대해 생각하지 않고 있습니다.",
 		"italian": "%firstName% non ha alcun interesse per le promozioni al momento.",
+		"thai": "%firstName% นั้นไม่สนใจเกี่ยวกับการเลื่อนขั้นในตอนนี้",
 	},
 	"notRelevantYet_Desc_salary": {
 		"english": "%firstName% doesn't care about Salary at the moment.",
@@ -118,6 +124,7 @@
 		"polish": "%firstName% nie dba o wypłatę w tej chwili",
 		"korean": "%firstName%#{은} 지금은 일당에 관심이 없습니다.",
 		"italian": "%firstName% non ha alcun interesse per il salario al momento.",
+		"thai": "%firstName% นั้นไม่สนใจเกี่ยวกับรายได้ในตอนนี้",
 	},
 	"notRelevantYet_Desc_community": {
 		"english": "%firstName% doesn't care about Community at the moment.",
@@ -134,6 +141,7 @@
 		"polish": "%firstName% nie dba o społeczność w tej chwili.",
 		"korean": "%firstName%#{은} 아직 커뮤니티에 신경쓰지 않습니다.",
 		"italian": "%firstName% non ha alcun interesse per la comunità al momento.",
+		"thai": "%firstName% นั้นไม่สนใจเกี่ยวกับสังคมในตอนนี้",
 	},
 	"foodSatisfactionAwesome": {
 		"english": "Great food",
@@ -150,6 +158,7 @@
 		"polish": "Doskonałe jedzenie",
 		"korean": "꽤 좋은 음식",
 		"italian": "Cibo squisito",
+		"thai": "อาหารชั้นเยี่ยม",
 	},
 	"foodSatisfactionGood": {
 		"english": "Good food",
@@ -166,6 +175,7 @@
 		"polish": "Dobre jedzenie",
 		"korean": "괜찮은 음식",
 		"italian": "Buon cibo",
+		"thai": "อาหารชั้นดี",
 	},
 	"foodSatisfactionInsufficient": {
 		"english": "Expects better food",
@@ -182,6 +192,7 @@
 		"polish": "Oczekuje lepszego jedzenia",
 		"korean": "더 나은 음식을 기대함",
 		"italian": "Si aspetta del cibo migliore",
+		"thai": "คาดหวังอาหารที่ดีกว่านี้",
 	},
 	"foodSatisfactionBad": {
 		"english": "Expects way better food",
@@ -198,6 +209,7 @@
 		"polish": "Oczekuje znacznie lepszego jedzenia",
 		"korean": "훨씬 더 나은 음식을 기대함",
 		"italian": "Si aspetta del buon cibo",
+		"thai": "คาดหวังอาหารที่ดีกว่านี้มาก",
 	},
 	"homeSatisfactionAwesome": {
 		"english": "Lives in an amazing home",
@@ -214,6 +226,7 @@
 		"polish": "Żyje w doskonałym domu",
 		"korean": "멋들어진 집에 살고 있음",
 		"italian": "Vive in una casa meravigliosa",
+		"thai": "อาศัยอยู่ในบ้านที่ยอดเยี่ยม",
 	},
 	"homeSatisfactionGood": {
 		"english": "Lives in a good home",
@@ -230,6 +243,7 @@
 		"polish": "Żyje w dobrym domu",
 		"korean": "좋은 집에 살고 있음",
 		"italian": "Vive in una buona casa",
+		"thai": "อาศัยอยู่ในบ้านที่ดี",
 	},
 	"homeSatisfactionInsufficient": {
 		"english": "Expects a better home",
@@ -246,6 +260,7 @@
 		"polish": "Oczekuje lepszego domu",
 		"korean": "더 나은 집을 기대함",
 		"italian": "Si aspetta una casa migliore",
+		"thai": "คาดหวังบ้านที่ดีกว่านี้",
 	},
 	"homeSatisfactionBad": {
 		"english": "Expects a much better home",
@@ -262,6 +277,7 @@
 		"polish": "Oczekuje znacznie lepszego domu",
 		"korean": "훨씬 더 나은 집을 기대함",
 		"italian": "Si aspetta una casa molto migliore",
+		"thai": "คาดหวังบ้านที่ดีกว่านี้มาก",
 	},
 	"lifeSatisfactionAwesome": {
 		"english": "Very happy with life",
@@ -278,6 +294,7 @@
 		"polish": "Bardzo %zadowolon%yA% z życia",
 		"korean": "삶이 너무나 행복함",
 		"italian": "Molto felice della sua vita",
+		"thai": "มีความสุขกับชีวิตมากๆ",
 	},
 	"lifeSatisfactionGood": {
 		"english": "Satisfied with life",
@@ -294,6 +311,7 @@
 		"polish": "%zadowolon%yA% z życia",
 		"korean": "삶에 만족함",
 		"italian": "%cap-SoddisfattoSoddisfatta% della sua vita",
+		"thai": "พึงพอใจกับชีวิต",
 	},
 	"lifeSatisfactionInsufficient": {
 		"english": "Wants more life satisfaction",
@@ -310,6 +328,7 @@
 		"polish": "Oczkuje więcej zadowolenia z życia",
 		"korean": "더 나은 삶을 원함",
 		"italian": "Vuole più soddisfazione dalla sua vita",
+		"thai": "ต้องการความพึงพอใจในชีวิตมากกว่านี้",
 	},
 	"lifeSatisfactionBad": {
 		"english": "Not satisfied with life",
@@ -326,6 +345,7 @@
 		"polish": "%niezadowolon%yA% z życia",
 		"korean": "삶에 전혀 만족하지 않음",
 		"italian": "Non è %SoddisfattoSoddisfatta% della sua vita",
+		"thai": "ไม่มีความพึงพอใจในชีวิต",
 	},
 	"promotionsSatisfactionAwesome": {
 		"english": "Mastered %hisHer% profession",
@@ -342,6 +362,7 @@
 		"polish": "Osiągn%ąłĘła% mistrzostwo w %jegoJej% zawodzie",
 		"korean": "%heShe%의 직업군에서 베테랑이 됨",
 		"italian": "%cap-PadronePadrona% della sua professione",
+		"thai": "บรรลุในเส้นทางอาชีพของ %hisHer%",
 	},
 	"promotionsSatisfactionGood": {
 		"english": "Confident in %hisHer% skills",
@@ -358,6 +379,7 @@
 		"polish": "Pewn%yA% w %jegoJej% umiejętnościach",
 		"korean": "%heShe%의 기술에 자신있음",
 		"italian": "%cap-FiduciosoFiduciosa% delle sue abilità",
+		"thai": "มั่นใจในทักษะของ %hisHer%",
 	},
 	"promotionsSatisfactionInsufficient": {
 		"english": "Unsure of %hisHer% skills",
@@ -374,6 +396,7 @@
 		"polish": "Niepewn%yA% %jegoJej% umiejętności",
 		"korean": "%heShe%의 기술에 확신이 없음",
 		"italian": "%cap-InsicuroInsicura% delle sue abilità",
+		"thai": "ไม่แน่ใจในทักษะของ %hisHer%",
 	},
 	"promotionsSatisfactionBad": {
 		"english": "Unhappy with %hisHer% skills",
@@ -390,6 +413,7 @@
 		"polish": "Niezadowolony z %jegoJej% umiejętności",
 		"korean": "%heShe%의 능력에 불행함",
 		"italian": "%cap-ScontentoScontenta% delle sue abilità",
+		"thai": "ไม่มีความสุขกับทักษะของ %hisHer%",
 	},
 	"promotionsSatisfactionOk": {
 		"english": "Satisfied with %hisHer% skills",
@@ -406,6 +430,7 @@
 		"polish": "Zadowolony z %jegoJej% umiejętności",
 		"korean": "%heShe%의 기술에 만족함",
 		"italian": "%cap-SoddisfattoSoddisfatta% delle sue abilità",
+		"thai": "พึงพอใจในทักษะของ %hisHer%",
 	},
 	"promotionsSatisfactionOkDumb_Desc": {
 		"english": "Unfortunately, %firstName% is not the brightest and has trouble developing new skills. However, %heShe% has accepted %hisHer% fate and is ok with it.",
@@ -423,6 +448,7 @@
 		"polish": "Niestety, %firstName% nie jest najmądrzejsz%yA% i ma trudności w rozwijaniu nowych umiejętności. Jednak, %onOna% zaakceptował %jegoJej% los i się z nim pogodził%nicA%.",
 		"korean": "불행하게도, %firstName%#{은} 수재가 아니고, 새로운 기술을 개발하는 데 어려움을 겪고 있습니다. 그렇지만, %heShe%는 자신의 운명을 받아들였고 지금에 만족합니다.",
 		"italian": "Sfortunatamente, %firstName% non è il più brillante e ha difficoltà a sviluppare nuove competenze. Tuttavia, ha accettato il suo destino e ci convive.",
+		"thai": "โชคไม่ค่อยดีนักที่ %firstName% นั้นไม่ใช่คนที่ปราดเปรื่องที่สุดและมีปัญหาในการพัฒนาทักษะใหม่ๆ แต่อย่างไรก็ตาม %heShe% นั้นยอมรับในชะตาของ %hisHer% เองและโอเคกับมัน",	
 	},
 	"colonistIsALevelXProfessionGuy": {
 		"english": "%firstName% is a level %professionLevel% %professionName%",
@@ -439,6 +465,7 @@
 		"polish": "%firstName% to %professionName% poziomu %professionLevel%",
 		"korean": "%firstName%#{은} %professionName% %rofessionLevel%레벨 입니다.",
 		"italian": "%firstName% è %UnUna% %professionName% di livello %professionLevel%",
+		"thai": "%firstName% นั้นอยู่ในระดับ %professionLevel% ของการเป็น %professionName%",
 	},
 	"reachLevelX": {
 		"english": "Reach Level %requiredProfessionLevel% in a profession",
@@ -457,6 +484,7 @@
 		"polish": "Osiągn%ąłĘła% poziom %requiredProfessionLevel% w zawodzie",
 		"korean": "직업에서 %requiredProfessionLevel%레벨에 도달하기",
 		"italian": "Raggiungere il livello %requiredProfessionLevel% in una professione",
+		"thai": "ไปให้ถึงระดับ %requiredProfessionLevel% ในสายอาชีพ",
 	},
 	"colonistNeedsMoreWorkExperience": {
 		"english": "%firstName% needs more work experience or appropriate Education",
@@ -473,6 +501,7 @@
 		"polish": "%firstName% potrzebuje więcej doświadczenia zawodowego lub właściwej edukacji.",
 		"korean": "%firstName%에게는 더 많은 경험 또는 적절한 교육이 필요합니다.",
 		"italian": "%firstName% ha bisogno di più esperienza lavorativa o di una formazione adeguata",
+		"thai": "%firstName% นั้นจำเป็นต้องมีประสบการณ์ทำงานหรือการศึกษาที่ถูกต้องมากกว่านี้",
 	},
 	"salarySatisfactionAwesome": {
 		"english": "Happy with %hisHer% salary",
@@ -488,6 +517,7 @@
 		//"polish": "",
 		"korean": "%heShe%의 일당에 행복함",
 		"italian": "Felice del suo salario",
+		"thai": "มีความสุขกับรายได้ของ %hisHer%",
 	},
 	"salarySatisfactionGood": {
 		"english": "Fine with %hisHer% salary",
@@ -503,6 +533,7 @@
 		//"polish": "",
 		"korean": "%heShe%의 일당이면 충분함",
 		"italian": "%cap-SoddisfattoSoddisfatta% del suo salario",
+		"thai": "รับได้กับรายได้ของ %hisHer%",
 	},
 	"salarySatisfactionInsufficient": {
 		"english": "Didn't receive enough salary",
@@ -518,6 +549,7 @@
 		//"polish": "",
 		"korean": "충분한 일당을 받지 못함",
 		"italian": "Non ha ricevuto abbastanza salario",
+		"thai": "ไม่ได้รับรายได้ที่เพียงพอ",
 	},
 	"salarySatisfactionBad": {
 		"english": "Received way too little salary",
@@ -533,6 +565,7 @@
 		//"polish": "",
 		"korean": "너무 적은 일당을 받음",
 		"italian": "Ha ricevuto un salario misero",
+		"thai": "ได้รับรายได้น้อยเกินไปมาก",
 	},
 	"salarySatisfactionNotPaidYet": {
 		"english": "Has not received a salary yet",
@@ -549,6 +582,7 @@
 		//"polish": "",
 		"korean": "아직 일당을 받지 않음",
 		"italian": "Non ha ancora ricevuto un salario",
+		"thai": "ยังไม่เคยได้รับรายได้",
 	},
 	"salarySatisfactionAwesome_Desc": {
 		"english": "%firstName% didn't think %hisHer% work would be worth that much money. %cap-heShe% expects only %coins% coins per day, but the extra money brightens up %hisHer% day!",
@@ -564,6 +598,7 @@
 		//"polish": "",
 		"korean": "%firstName%#{은} 자신이 그 정도의 대우를 받을만한 사람이라고 생각하진 않습니다. %heShe%는 그저 하루에 %coins% 코인이면 족하다고 생각하지만, 더 많은 돈은 %heShe%의 하루를 즐겁게 합니다!",
 		"italian": "%firstName% non pensava che il suo lavoro valesse così tanti soldi. Le sue aspettative erano di %coins% monete al giorno, ma il denaro extra ha illuminato la sua giornata!",
+		"thai": "%firstName% นั้นไม่ได้คิดว่างานของ %hisHer% จะมีค่าเท่าเงินมากมายขนาดนั้น %cap-heShe% นั้นคาดหวังแค่เพียง %coins% เหรียญต่อวัน, แต่เงินที่ได้เพิ่มมานั้นทำให้ชีวิตของ %hisHer% ช่างดูสดใสนัก!",
 	},
 	"salarySatisfactionGood_Desc": {
 		"english": "%firstName% thinks %hisHer% last payday was adequate. %coins% coins per day is a normal salary for %himHer%.",
@@ -579,6 +614,7 @@
 		//"polish": "",
 		"korean": "%firstName%#{은} 이번 일당이 적절했다고 생각합니다. 하루에 %coins% 코인이면 %heShe%에게는 평범한 수준이죠.",
 		"italian": "%firstName% pensa che il suo ultimo salario è stato adeguato. %coins% monete al giorno è un salario accettabile.",
+		"thai": "%firstName% นั้นคิดว่ารายได้ของ %hisHer% พอดีแล้ว %coins% เหรียญต่อวันนั้นเป็นรายได้ปกติสำหรับ %himHer%",
 	},
 	"salarySatisfactionInsufficient_Desc": {
 		"english": "According to %firstName%, %heShe% deserves a minimum salary of %coins% coins per day.",
@@ -594,6 +630,7 @@
 		//"polish": "",
 		"korean": "%firstName%#{이} 말하기를, %heShe%는 하루에 최소한 %coins% 코인을 받을 자격이 된다고 합니다.",
 		"italian": "Secondo %firstName%, il suo lavoro merita un salario minimo di %coins% monete al giorno.",
+		"thai": "เพื่อให้สอดคล้องกับ %firstName%, %heShe% ควรจะได้รับรายได้เป็นจำนวน %coins% เหรียญต่อวัน",
 	},
 	"salarySatisfactionBad_Desc": {
 		"english": "%firstName% is unhappy with %hisHer% last payday - in %hisHer% opinion, %heShe% deserves a minimum salary of %coins% coins per day.",
@@ -609,6 +646,7 @@
 		//"polish": "",
 		"korean": "%firstName%#{은} 이번 일당 때문에 기분이 나쁩니다 - %heShe%의 의견에 따르면, %heShe%는 하루에 최소한 %coins% 코인을 받을 자격이 된다고 합니다.",
 		"italian": "%firstName% è %ScontentoScontenta% del suo ultimo salario. Secondo la sua opinione, merita un salario minimo di %coins% monete al giorno.",
+		"thai": "%firstName% นั้นไม่มีความสุขกับรายได้งวดล่าสุดของ %hisHer% เลย - ในความคิดของ %hisHer%, %heShe% นั้นสมควรได้รายได้อย่างน้อยที่สุดเป็นจำนวน %coins% เหรียญต่อวัน",
 	},
 	"salarySatisfactionNotPaidYet_Desc": {
 		"english": "%firstName% expects a minimum salary of %coins% coins per day.",
@@ -624,6 +662,7 @@
 		"polish": "%firstName% chce wypłatę minimum %coins% na dzień.",
 		"korean": "%firstName%#{은} 최소한 하루에 %coins% 코인쯤 받을 거라고 예상하고 있습니다.",
 		"italian": "%firstName% si aspetta un salario minimo di %coins% monete al giorno.",
+		"thai": "%firstName% นั้นคาดหวังรายได้อย่างน้อยที่สุดเป็นจำนวน %coins% เหรียญต่อวัน",
 	},
 	"food": {
 		"english": "Food",
@@ -640,6 +679,7 @@
 		"polish": "Jedzenie",
 		"korean": "음식",
 		"italian": "Cibo",
+		"thai": "อาหาร",
 	},
 	"simpleMeals": {
 		"english": "Campfire food",
@@ -656,6 +696,7 @@
 		"polish": "Jedzenie z ogniska",
 		"korean": "모닥불에 구운 음식",
 		"italian": "Cibo da falò",
+		"thai": "อาหารทำจากกองไฟ",
 	},
 	"goodOrBakedMeals": {
 		"english": "Kitchen food or baked goods",
@@ -672,6 +713,7 @@
 		"polish": "Jedzenie z kuchni lub wypieki",
 		"korean": "요리된 음식 또는 오븐에 구운 음식",
 		"italian": "Cibo da cucina o da forno",
+		"thai": "อาหารที่ทำจากครัวหรือเตาอบ",
 	},
 	"goodAndBakedMeals": {
 		"english": "Variety of kitchen food and baked goods",
@@ -698,6 +740,7 @@
 		"polish": "Różnorodność kuchennego jedzenia lub wypieków",
 		"korean": "다양한 요리된 음식 또는 오븐에 구운 음식",
 		"dutch":  "Verscheidenheid van keuken voedsel of gebakken goederen",
+		"thai": "อาหารหลากหลายทั้งจากครัวและเตาอบ",
 	},
 	"clickToShowSleepingSpot": {
 		"english": "Click to show sleeping spot",
@@ -714,6 +757,7 @@
 		"polish": "Kliknij, aby pokazać miejsce spania",
 		"korean": "잠자리를 보려면 클릭하세요",
 		"italian": "Clicca per vedere il posto letto",
+		"thai": "คลิกเพื่อแสดงจุดที่นอนได้",
 	},
 	"ownsSleepingSpot": {
 		"english": "Owns a Sleeping Spot",
@@ -730,6 +774,7 @@
 		"polish": "Posiada miejsce do spania",
 		"korean": "자신만의 잠자리를 가지기",
 		"italian": "Possedere un posto letto",
+		"thai": "ครอบครองจุดที่นอนได้",
 	},
 	"sleepsInside": {
 		"english": "Sleeps inside",
@@ -746,6 +791,7 @@
 		"polish": "Śpi wewnątrz",
 		"korean": "실내에서 자기",
 		"italian": "Dormire al coperto",
+		"thai": "นอนในอาคาร",
 	},
 	"ownsBed": {
 		"english": "Owns a proper bed",
@@ -762,6 +808,7 @@
 		"polish": "Posiada właściwe łóżko",
 		"korean": "제대로 된 침대 가지기",
 		"italian": "Possedere un letto adeguato",
+		"thai": "ครอบครองเตียงเป็นกิจลักษณะ",
 	},
 	"ownsBedroom": {
 		"english": "Owns a bedroom",
@@ -778,6 +825,7 @@
 		"polish": "Posiada sypialnię",
 		"korean": "나만의 침실 가지기",
 		"italian": "Possedere una stanza da letto",
+		"thai": "ครอบครองห้องนอน",
 	},
 	"ownsHouse": {
 		"english": "Owns a house",
@@ -794,6 +842,7 @@
 		"polish": "Posiada dom",
 		"korean": "나만의 집 가지기",
 		"italian": "Possedere una casa",
+		"thai": "ครอบครองบ้าน",
 	},
 	"ownsHouse3Rooms": {
 		"english": "Owns a house with 3 big rooms",
@@ -810,6 +859,7 @@
 		"polish": "Posiada dom z 3 dużymi pokojami",
 		"korean": "3개의 큰 방이 있는 집 가지기",
 		"italian": "Possedere una casa con 3 grandi stanze",
+		"thai": "ครอบครองบ้านที่มีสามห้องขนาดใหญ่",
 	},
 	"ownsHouse5Rooms": {
 		"english": "Owns a house with 5 big rooms",
@@ -826,6 +876,7 @@
 		"polish": "Posiada dom z 5 dużymi pokojami",
 		"korean": "5개의 큰 방이 있는 집 가지기",
 		"italian": "Possedere una casa con 5 grandi stanze",
+		"thai": "ครอบครองบ้านที่มีห้าห้องขนาดใหญ่",
 	},
 	"lifeSatisfactionLevel": {
 		"english": "Life Satisfaction Level %number%",
@@ -842,6 +893,7 @@
 		"polish": "Poziom zadowolenia z życia %number%",
 		"korean": "생활 만족도 %number% 레벨",
 		"italian": "Soddisfazione di vita livello %number%",
+		"thai": "ระดับความพึงพอใจในชีวิต %number%",
 	},
 	"needToFulfillWishes": {
 		"english": "Wishes need to be fulfilled",
@@ -858,6 +910,8 @@
 		"polish": "Życzenia do spełnienia",
 		"korean": "소원이 이루어져야 합니다",
 		"italian": "Desidera soddisfare i suoi desideri",
+		"thai": "ความประสงค์จำเป็นต้องได้รับการเติมเต็ม",
+		
 	},
 	"wantsJob_Title": {
 		"english": "Wants a job",
@@ -874,6 +928,7 @@
 		"polish": "Chce pracę",
 		"korean": "직업을 갖고싶어",
 		"italian": "Vuole un lavoro",
+		"thai": "ต้องการงาน",
 	},
 	"wantsJob_Desc": {
 		"english": "%firstName% has no job at the moment. It's making %himHer% feel unfulfilled.",
@@ -890,5 +945,6 @@
 		"polish": "%firstName% nie ma pracy w tym momencie. Przez to %onOna% czuje się %niezadowolon%yA%.",
 		"korean": "%firstName%#{은} 아직 직업이 없습니다. %heShe%는 성취감을 느끼지 못하고 있습니다.",
 		"italian": "%firstName% non ha un lavoro al momento. Questo %LoLa% fa sentire irrealizzato.",
+		"thai": "%firstName% นั้นไม่มีงานให้ทำในตอนนี้ ซึ่งทำให้ %himHer% รู้สึกไม่ถูกเติมเต็ม",
 	},
 }
