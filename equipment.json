@@ -15,6 +15,7 @@
 		"korean": "나무칼",
 		"chinese": "木剑",
 		"italian": "Spada di legno",
+		"thai": "ดาบไม้",
 	},
 	"equipmentDescription_swordWood": {
 		"english": "No comparison to a real sword but better than having to fight with your bare hands.",
@@ -30,6 +31,7 @@
 		"korean": "진짜 칼과 비교할 수는 없지만, 맨손으로 싸우는 것보단 낫습니다.",
 		"chinese": "不能和真正的剑相比，但总比赤手空拳的要好。",
 		"italian": "Non c'è alcun paragone con una vera spada, ma è sempre meglio che dover combattere a mani nude.",
+		"thai": "ไม่สามารถเทียบได้กับดาบจริงๆ แต่ก็ยังดีกว่าต้องสู้ด้วยมือเปล่า",
 	},
 	"equipmentName_swordStone": {
 		"english": "Stone Sword",
@@ -45,6 +47,7 @@
 		"korean": "돌칼",
 		"chinese": "石剑",
 		"italian": "Spada di pietra",
+		"thai": "ดาบหิน",
 	},
 	"equipmentDescription_swordStone": {
 		"english": "Even though made out of stone, the sword's blade is sharp and dangerous.",
@@ -60,6 +63,7 @@
 		"korean": "돌로 만들어졌지만, 날이 서 있어서 위험합니다.",
 		"chinese": "虽然是石头做的，剑刃锋利也是很危险的。",
 		"italian": "Sebbene sia fatta di pietra, la lama è affilata e pericolosa.",
+		"thai": "ถึงแม้ว่าจะสร้างจากหิน คมดาบก็คมและเป็นอันตราย",
 	},
 	"equipmentName_swordIronTraderGuard": {
 		"english": "Trader Guards' Sword",
@@ -73,6 +77,7 @@
 		"chinese": "商人守卫剑",
 		"dutch": "Handelaar Bewaker's Zwaard",
 		"polish": "Miecz strażnika handlarza",
+		"thai": "ดาบของผู้อารักขาพ่อค้า",
 	},
 	"equipmentDescription_swordIronTraderGuard": {
 		"english": "\"As a member of the Trader Guard, it is your highest duty to secure the merchandise and to keep your sword clean at all times!\" (Faustus, Jonathan. What it means to be a member of the Trader Guard, Quarkenstein, 1247, p. 2.)",
@@ -86,6 +91,7 @@
 		"italian": "\"Come membro della Guardia dei Mercanti, il tuo più grande dovere è proteggere la merce e tenere la tua spada pulita in ogni istante!\" (Faustus, Jonathan. Il significato dell'essere un membro della Guardia dei Mercanti, Quarkenstein, 1247, p. 2.)",
 		"chinese": "\"作为商人守卫队的一员，保证机密，并始终保持剑的清洁是最高职责！\"(Faustus、Jonathan。成为商人守卫，Quarkenstein的成员意味着什么，1247, p. 2。）",
 		"polish": "\"Jako członek gwardii handlarskiej, Twoim najważniejszym obowiązkiem jest ochrona handlarza i utrzymywanie swojego miecza lśniącego przez cały czas!\" (Faustus, Johanatan. Co to znaczy by być członkiem gwardii handlarskiej, Quarkestein, 1247, s. 2.)",
+		"thai": "\"ในฐานะสมาชิกของผู้อารักขาพ่อค้า, ถือเป็นหน้าที่สำคัญสูงสุดที่จะปกป้องสินค้าและรักษาดาบให้สะอาดอยู่เสมอ!\" (Faustus, โจนาธาน. อะไรคือความหมายของการเป็นสมาชิกแห่งผู้อารักขาพ่อค้า, ควาร์กเก้นสไตน์, 1247, p. 2.)",
 	},
 	"equipmentName_swordIron": {
 		"english": "Iron Sword",
@@ -102,6 +108,8 @@
 		"korean": "철검",
 		"chinese": "铁剑",
 		"italian": "Spada di ferro",
+		"thai": "ดาบเหล็ก",
+		
 	},
 	"equipmentDescription_swordIron": {
 		"english": "A decent melee weapon. Forged by a skilled craftsman.",
@@ -118,6 +126,7 @@
 		"korean": "괜찮은 근접무기입니다. 숙련된 수공업자가 벼려냈습니다.",
 		"chinese": "不错的铁制武器，由技艺精湛的工匠锻造而成。",
 		"italian": "Un'arma da mischia decente. Forgiata da un abile fabbro.",
+		"thai": "อาวุธระยะประชิดที่เหมาะสม หลอมขึ้นมาโดยช่างฝีมือที่มีทักษะ",
 	},
 
 // Axes
@@ -137,6 +146,7 @@
 		"korean": "나무도끼",
 		"chinese": "木斧",
 		"italian": "Ascia di legno",
+		"thai": "ขวานไม้",
 	},
 	"equipmentDescription_axeWood": {
 		"english": "Gets 50% more wood out of trees. It's better than nothing.",
@@ -152,6 +162,7 @@
 		"korean": "나무에서 50% 더 많은 목재를 얻을 수 있습니다. 없는 것보단 낫죠.",
 		"chinese": "砍伐树木能获取50%木材，总比没有好。",
 		"italian": "Con questa puoi ricavare il 50% di legna in più dagli alberi. Meglio di niente.",
+		"thai": "ได้รับไม้เพิ่มขึ้น 50% จากต้นไม้ ซึ่งก็ดีกว่าไม่ได้อะไรเลย",
 	},
 	"equipmentName_axeStone": {
 		"english": "Stone Axe",
@@ -167,6 +178,7 @@
 		"korean": "돌도끼",
 		"chinese": "石斧",
 		"italian": "Ascia di pietra",
+		"thai": "ขวานหิน",
 	},
 	"equipmentDescription_axeStone": {
 		"english": "Gets double the amount of wood out of trees. Finally we can do some serious construction!",
@@ -182,6 +194,7 @@
 		"korean": "나무에서 얻는 목재의 양을 두 배로 늘려줍니다. 드디어 제대로 된 건축을 할 수 있겠어요!",
 		"chinese": "从树木中获取双倍的木材。我们终于可以建造一些牢固建筑了!",
 		"italian": "Usandola potrai ricavare il doppio della legna dagli alberi. Finalmente possiamo dedicarci a qualche costruzione seria!",
+		"thai": "ได้รับไม้เป็นสองเท่าจากต้นไม้ ในที่สุดเราก็จะได้สร้างอะไรเป็นจริงเป็นจังสักที!",
 	},
 	"equipmentName_axeIron": {
 		"english": "Iron Axe",
@@ -197,6 +210,7 @@
 		"korean": "쇠도끼",
 		"chinese": "铁斧",
 		"italian": "Ascia di ferro",
+		"thai": "ขวานเหล็ก",
 	},
 	"equipmentDescription_axeIron": {
 		"english": "Gets 150% more wood out of trees. Are you ready to build an empire out of wood?",
@@ -212,6 +226,7 @@
 		"korean": "나무에서 150% 많은 목재를 얻습니다. 목재로 제국을 건설할 준비가 되셨나요?",
 		"chinese": "从树木中获得150%的木材。你准备好用木头建立一个帝国了吗?",
 		"italian": "Usarla ti farà ricavare il 150% in più di legna dagli alberi. Il tuo impero di legno potrà avere inizio.",
+		"thai": "ได้รับไม้ 150% จากต้นไม้ คุณพร้อมที่จะสร้างจักรวรรดิ์ขึ้นมาจากไม้แล้วหรือยัง?",
 	},
 
 // Pickaxes
@@ -231,6 +246,7 @@
 		"korean": "나무곡괭이",
 		"chinese": "木镐",
 		"italian": "Piccone di legno",
+		"thai": "อีเต้อไม้",
 	},
 	"equipmentDescription_pickaxeWood": {
 		"english": "Gets 50% more resources out of mining. Someone said kicking wasn't that healthy.",
@@ -246,6 +262,7 @@
 		"korean": "채광에서 50% 많은 자원을 얻습니다. 발로 차는건 건강에 좋지 않다고 해요.",
 		"chinese": "采矿可以获得50%的资源。有人说踢腿不太健康。",
 		"italian": "Usandolo potrai estrarre il 50% in più di minerali. Secondo alcuni calciare non era la soluzione più salutare.",
+		"thai": "ได้รับทรัพยากรเพิ่ม 50% จากการขุดแร่ บางคนบอกไว้ว่าเตะเอามันไม่ดีต่อสุขภาพ",
 	},
 	"equipmentName_pickaxeStone": {
 		"english": "Stone Pickaxe",
@@ -261,6 +278,7 @@
 		"korean": "돌곡괭이",
 		"chinese": "石镐",
 		"italian": "Piccone di pietra",
+		"thai": "อีเต้อหิน",
 	},
 	"equipmentDescription_pickaxeStone": {
 		"english": "Gets double the amount of resources out of mining. What are you going to do with all this stone and iron?",
@@ -276,6 +294,7 @@
 		"korean": "채광에서 두 배의 자원을 얻습니다. 이 돌과 철로 뭘 하시려는거죠?",
 		"chinese": "从采矿中获得双倍的资源。你打算怎么处理这些石头和铁矿",
 		"italian": "Con questo potrai estrarre il doppio dei minerali. Cosa hai intenzione di fare con così tanta pietra e ferro?",
+		"thai": "ได้รับทรัพยากรเป็นสองเท่าจากการขุดแร่ คุณจะเอาหินกับแร่เหล็กพวกนี้ไปทำอะไรกัน?",
 	},
 	"equipmentName_pickaxeIron": {
 		"english": "Iron Pickaxe",
@@ -291,6 +310,7 @@
 		"korean": "쇠곡괭이",
 		"chinese": "铁镐",
 		"italian": "Piccone di ferro",
+		"thai": "อีเต้อเหล็ก",
 	},
 	"equipmentDescription_pickaxeIron": {
 		"english": "Gets 150% more resources out of mining. No pebble left untouched!",
@@ -306,6 +326,7 @@
 		"korean": "채광에서 150% 많은 자원을 얻습니다. 손댄 적 없는 돌덩이가 없네요!",
 		"chinese": "从采矿中获得150%的资源。没有一颗鹅卵石是完好无损的!",
 		"italian": "Usarlo ti farà estrarre il 150% in più di minerali. Nessun ciottolo rimarrà più intatto!",
+		"thai": "ได้รับทรัพยากรเพิ่ม 150% จากการขุดแร่ ไม่มีหินก้อนไหนที่ไม่ถูกแตะต้องอีก!",
 	},
 
 // Bows
@@ -326,6 +347,7 @@
 		"korean": "단순한 활",
 		"chinese": "简易弓",
 		"italian": "Arco semplice",
+		"thai": "ธนูเรียบง่าย",
 	},
 	"equipmentDescription_bow": {
 		"english": "Each arrow deals a serious amount of damage - if it hits.",
@@ -342,6 +364,7 @@
 		"korean": "화살 하나하나가 무시할 수 없는 피해를 입힙니다 - 그게 맞는다면, 말이죠.",
 		"chinese": "每一支箭都会造成重伤 - 如果它击中目标的话。",
 		"italian": "Ogni freccia infligge una grande quantità di danni, sempre se va a segno.",
+		"thai": "ลูกธนูแต่ละดอกสามารถสร้างความเสียหายได้อย่างมาก - ถ้ามันยิงถูกนะ",
 	},
 
 // Clubs
@@ -362,6 +385,7 @@
 		"korean": "나무 몽둥이",
 		"chinese": "木棒",
 		"italian": "Bastone di legno",
+		"thai": "กระบองไม้",
 	},
 	"equipmentDescription_clubWood": {
 		"english": "This plain club is used by Tikigoblins. It might be of special value to collectors!",
@@ -377,6 +401,7 @@
 		"korean": "이 단순한 몽둥이는 티키고블린들이 쓰던 것입니다. 수집가들은 좀 특별한 가치를 느낄지도 모르죠!",
 		"chinese": "土著哥布林用的就是这个普通的棍子。它可能对收藏家有特殊的价值!",
 		"italian": "Questo semplice bastone è usato dai Tikigoblin. Potrebbe avere un valore speciale per i collezionisti!",
+		"thai": "กระบองดาดๆ นี้ถูกใช้โดยทิกิก็อบลิน มันอาจจะมีค่าเป็นพิเศษสำหรับนักสะสมก็ได้!",
 	},
 	"equipmentName_clubStone": {
 		"english": "Stone Club",
@@ -391,6 +416,7 @@
 		"chinese": "石棒",
 		"italian": "Bastone di pietra",
 		"polish": "Kamienna pałka",
+		"thai": "กระบองหิน",
 	},
 	"equipmentDescription_clubStone": {
 		"english": "Yes, this stone club might look a bit primitive. Don't underestimate its effectiveness when it comes to dealing damage!",
@@ -405,6 +431,7 @@
 		"chinese": "这个石棒看起来有点原始。当拿来战斗时，不要低估它的伤害!",
 		"italian": "Sì, potrebbe sembrare un po' primitivo, ma non sottovalutare la sua efficacia quando si tratta di infliggere danni!",
 		"polish": "Tak, ta kamienna pałka może wyglądać dość prymitywnie. Nie należy jej jednak nie doceniać, kiedy dochodzi do zwarcia!",
+		"thai": "ใช่แล้ว กระบองหินนี้อาจจะดูพื้นๆ แต่อย่าได้ประมาทความได้ผลในการสร้างความเสียหายเชียว!",
 	},
 	"equipmentName_clubRitual": {
 		"english": "Tiki Club",
@@ -419,6 +446,7 @@
 		"chinese": "土著棒子",
 		"italian": "Bastone tiki",
 		"polish": "Pałka Tiki",
+		"thai": "กระบองทิกิ",
 	},
 	"equipmentDescription_clubRitual": {
 		"english": "Tikigoblins make ritual clubs like this to fight very specific foes. Once they've been victorious, the club is used as a memento of their defeated enemies!",
@@ -433,6 +461,7 @@
 		"chinese": "土著哥布林用这样的仪式棒来对付特定的敌人。一旦取得胜利，棒子就被用来纪念被击败的敌人!",
 		"italian": "I Tikigoblin creano bastoni rituali come questo per affrontare avversari molto specifici. Quando si esce vittoriosi, il bastone viene utilizzato come cimelio per ricordare la sconfitta dei loro nemici!",
 		"polish": "Gobliny Tiki tworzą rytualne pałki, żeby walczyć przeciwko wybranym przeciwnikom. Kiedy wygrają oni walkę, pałka jest używana jako pomnik dla uczczenia porażki ich wrogów! ",
+		"thai": "ทิกิก็อบลินนั้นสร้างกระบองพิธีกรรมแบบนี้ขึ้นมาเพื่อต่อสู้กับศัตรูที่จำเพาะเจาะจง เมื่อพวกมันเอาชนะได้แล้ว กระบองนี้จะใช้เป็นเครื่องระลึกถึงศัตรูที่มันโค่นลงได้!",
 	},
 
 // Watering Cans
@@ -454,6 +483,7 @@
 		"korean": "나무 물뿌리개",
 		"chinese": "木制水壶",
 		"italian": "Annaffiatoio di legno",
+		"thai": "บัวรดน้ำไม้",
 	},
 	"equipmentDescription_wateringCanWood": {
 		"english": "You need to have a watering can to provide optimal care for your plants. Plants that have been watered correctly have been reported to yield double or triple harvests!",
@@ -470,6 +500,7 @@
 		"korean": "작물들을 최적의 상태로 돌보려면 물뿌리개가 필요합니다. 제때 물을 준 작물에서는 수확량이 두세배로 늘어난다는 보고가 있다고 하네요!",
 		"chinese": "你需要一个灌溉水壶来为你的植物提供合适的生长环境。据报道，正确浇水的植物可以获得两到三倍的收成!",
 		"italian": "È necessario disporre di un annaffiatoio per fornire le cure ottimali alle piante. Se le piante vengono annaffiate correttamente, sono capaci di generare raccolti doppi o tripli!",
+		"thai": "คุณจำเป็นต้องมีบัวรดน้ำเพื่อการดูแลพืชพรรณอย่างเหมาะสม พืชพรรณที่ถูกรดอย่างถูกต้องนั้นได้รับรายงานว่าเก็บผลผลิตได้มากเป็นสองหรือสามเท่าเลยทีเดียว!",
 	},
 	"equipmentName_wateringCanStone": {
 		"english": "Stone Watering Can",
@@ -485,6 +516,7 @@
 		"korean": "돌 물뿌리개",
 		"chinese": "石制水壶",
 		"italian": "Annaffiatoio di pietra",
+		"thai": "บัวรดน้ำหิน",
 	},
 	//"equipmentDescription_wateringCanStone": {
 	// Not fully implemented in the game yet	
@@ -503,6 +535,7 @@
 		"korean": "철 물뿌리개",
 		"chinese": "铁制水壶",
 		"italian": "Annaffiatoio di ferro",
+		"thai": "บัวรดน้ำเหล็ก",
 	},
 	//"equipmentDescription_wateringCanIron": {
 	// Not fully implemented in the game yet
@@ -526,6 +559,7 @@
 		"korean": "철갑옷",
 		"chinese": "铁盔甲",
 		"italian": "Armatura di ferro",
+		"thai": "เกราะเหล็ก",
 	},
 	"equipmentDescription_armorIron": {
 		"english": "Takes a long time to be produced, but protects the bearer pretty well.",
@@ -542,6 +576,7 @@
 		"korean": "만드는데 오래 걸리지만, 착용자를 충분히 보호합니다.",
 		"chinese": "需要很长时间才能生产出来，但能很好地防护穿着的人。",
 		"italian": "Fabbricarla impiega molto tempo, ma protegge piuttosto bene il portatore.",
+		"thai": "ใช้เวลานานในการสร้าง แต่สามารถป้องกันได้อย่างดีทีเดียว",
 	},
 	"equipmentName_armorTraderGuard": {
 		"english": "Trader Guard Armor",
@@ -555,6 +590,7 @@
 		"italian": "Armatura della Guardia dei Mercanti",
 		"chinese": "商人守卫护甲",
 		"polish": "Zbroja strażnika handlarza",
+		"thai": "เกราะผู้อารักขาพ่อค้า",
 		
 	},
 	"equipmentDescription_armorTraderGuard": {
@@ -569,6 +605,7 @@
 		"italian": "L'armatura ordinaria per i membri della Guardia dei Mercanti. Offre una protezione eccezionale senza limitare l'agilità.",
 		"chinese": "商人守卫的标准装甲。强大的防护又不会妨碍敏捷性。",
 		"polish": "Standardowa zbroja strażnika handlarza. Oferuje świetną ochronę bez ograniczania szybkości.",
+		"thai": "เกราะมาตรฐานของผู้อารักขาพ่อค้า ให้การป้องกันที่ดีโดยไม่จำกัดความคล่องตัวแต่อย่างใด",
 	},
 	"equipmentName_armorTikiHeavy": {
 		"english": "Tiki Turtle Armor",
@@ -582,6 +619,7 @@
 		"italian": "Armatura di tartaruga tiki",
 		"chinese": "土著龟甲",
 		"polish": "Żółwia zbroja Tiki",
+		"thai": "เกราะเต่าทิกิ",
 	},
 	"equipmentDescription_armorTikiHeavy": {
 		"english": "No one has ever seen these giant turtles whose shells are used to make this heavy armor. Only the Tikigoblins seem to know the secret of their whereabouts.",
@@ -595,6 +633,7 @@
 		"italian": "Nessuno ha mai visto le tartarughe giganti i cui gusci vengono usati per creare questa armatura pesante. Solo i Tikigoblin sembrano conoscere il segreto della loro esistenza.",
 		"chinese": "从来没有人见过这些巨大的海龟，它们的壳被用来制造这种重型盔甲。似乎只有土著哥布林知道他们下落。",
 		"polish": "Nikt nigdy nie widział tych gigantycznych żółwi z których zostały wykonane te zbroje. Tylko Gobliny Tiki znają sekrety ich pochodzenia.",
+		"thai": "ไม่มีใครเคยเห็นเต่าตัวยักษ์ที่ถูกนำมาใช้ทำเกราะหนักนี้เลย เหมือนว่าจะมีเพียงแค่ทิกิก็อบลินเท่านั้นที่รู้ความลับของแหล่งที่อยู่ของพวกเต่า",
 	},
 		"equipmentName_armorSimplePlate": {
 		"english": "Simple Plate Armor",
@@ -610,6 +649,7 @@
 		"korean": "단순한 플레이트 아머",
 		"chinese": "简易板甲",
 		"italian": "Armatura a piastre semplice",
+		"thai": "เกราะแผ่นแบบเรียบง่าย",
 	},
 	"equipmentDescription_armorSimplePlate": {
 		"english": "Focusing on the essentials, this armor suits part time soldiers just fine.",
@@ -625,6 +665,7 @@
 		"korean": "필수적인 것에만 집중했습니다. 일용직 군인에게는 적절합니다.",
 		"chinese": "该盔甲注重本质，很适合兼职战士穿戴。",
 		"italian": "Concentrandosi sull'essenziale, questa armatura si adatta bene ai soldati part-time.",
+		"thai": "พุ่งความสนใจไปแค่ที่ส่วนสำคัญ เกราะนี้สามารถรับใช้ทหารพาร์ทไทม์ได้สบายๆ",
 	},
 	"equipmentName_armorTikiMedium": {
 		"english": "Tiki Wood Armor",
@@ -638,6 +679,7 @@
 		"italian": "Armatura di legno tiki",
 		"chinese": "土著木甲",
 		"polish": "Drewniana zbroja Tiki",
+		"thai": "เกราะไม้ทิกิ",
 	},
 	"equipmentDescription_armorTikiMedium": {
 		"english": "While this wooden armor makes rattling noises, it is very light and offers acceptable protection.",
@@ -651,6 +693,7 @@
 		"italian": "Sebbene questa armatura di legno emetta strani rumori, è molto leggera e offre una protezione accettabile.",
 		"chinese": "虽然这种木质盔甲会发出嘎吱声，但它非常轻并有一定程度保护。",
 		"polish": "Podczas gdy drewniana zbroje wydaje kołaczące odgłosy, jest bardzo lekka i daje akceptowalną ochronę.",
+		"thai": "ในขณะที่เกราะไม้นี้ส่งเสียงตอนกระทบกัน แต่มันก็เบามากและให้การป้องกันที่พอรับได้",
 		},
 	"equipmentName_armorGambeson": {
 		"english": "Gambeson",
@@ -666,6 +709,7 @@
 		"korean": "천갑옷",
 		"chinese": "软铠甲",
 		"italian": "Gambesone",
+		"thai": "แกมเบอสัน",
 	},
 	"equipmentDescription_armorGambeson": {
 		"english": "The basic equipment of every wannabe warrior.",
@@ -681,6 +725,7 @@
 		"korean": "전사가 되고싶은 자들의 기본 장비입니다.",
 		"chinese": "每个成为战士的必需装备。",
 		"italian": "L'equipaggiamento base di ogni aspirante guerriero.",
+		"thai": "อุปกรณ์สวมใส่พื้นฐานของพวกวอนนาบีนักรบทุกคน",
 	},
 
 
@@ -701,6 +746,7 @@
 		"korean": "풋내기 수공업자의 옷",
 		"chinese": "工匠学徒衣服",
 		"italian": "Vesti da apprendista fabbro",
+		"thai": "ชุดช่างฝีมือฝึกหัด",
 	},
 	"equipmentDescription_craftsmanGear0": {
 		"english": "With these comfortable clothes, craftsmen work a bit faster.",
@@ -716,6 +762,7 @@
 		"korean": "이 편안한 옷을 입으면, 수공업자는 조금 더 빨리 일할 수 있습니다.",
 		"chinese": "有了这些舒适的衣服，工匠们工作得更快了。",
 		"italian": "Con queste vesti comode, i fabbri lavorano un po' più veloci.",
+		"thai": "ด้วยชุดที่สบายตัวนี้ ช่างฝีมือสามารถทำงานได้รวดเร็วยิ่งขึ้น",
 	},
 	"equipmentName_craftsmanGear1": {
 		"english": "Master Craftsman's Clothes",
@@ -731,6 +778,7 @@
 		"korean": "베테랑 수공업자의 옷",
 		"chinese": "工匠大师衣服",
 		"italian": "Vesti da mastro fabbro",
+		"thai": "ชุดช่างฝีมือชั้นครู",
 	},
 	"equipmentDescription_craftsmanGear1": {
 		"english": "Clothing for true master craftsmen. Your settlers will work significantly faster.",
@@ -746,6 +794,7 @@
 		"korean": "진정한 수공업의 달인을 위한 옷입니다. 개척자는 상당히 빠르게 일할겁니다.",
 		"chinese": "工匠大师的服装。你的殖民者会工作得更快。",
 		"italian": "Vesti da vero mastro fabbro. I tuoi coloni lavoreranno molto più velocemente con queste.",
+		"thai": "ชุดสำหรับช่างฝีมือชั้นครูที่แท้จริง คนที่สวมจะทำงานได้รวดเร็วขึ้นอย่างมาก",
 	},
 	"equipmentName_foresterGear0": {
 		"english": "Apprentice Forester's Clothes",
@@ -761,6 +810,7 @@
 		"korean": "풋내기 나무꾼의 옷",
 		"chinese": "伐木工学徒衣服",
 		"italian": "Vesti da apprendista guardaboschi",
+		"thai": "ชุดนักป่าไม้ฝึกหัด",
 	},
 	"equipmentDescription_foresterGear0": {
 		"english": "With the right equipment, forest work is so much easier. These clothes will enable your Foresters to work a little bit faster.",
@@ -776,6 +826,7 @@
 		"korean": "제대로 된 장비를 입으면, 벌목은 훨씬 쉬워집니다. 이 옷을 입은 나무꾼은 살짝 빠르게 일합니다.",
 		"chinese": "有了合适的装备，伐木工作就容易多了。这些衣服可以让你的伐木工的工作得更快一点。",
 		"italian": "Con il giusto equipaggiamento, il lavoro di guardaboschi risulta molto più semplice. Queste vesti permetteranno ai tuoi guardaboschi di lavorare un po' più velocemente.",
+		"thai": "ด้วยเครื่องมือที่ถูกต้อง งานป่าไม้ก็ง่ายขึ้นมาก ชุดนี้จะทำให้นักป่าไม้ของคุณทำงานได้รวดเร็วขึ้นมาอีกหน่อย",
 	},
 	"equipmentName_foresterGear1": {
 		"english": "Master Forester's Clothes",
@@ -791,6 +842,7 @@
 		"korean": "베테랑 나무꾼의 옷",
 		"chinese": "伐木工大师衣服",
 		"italian": "Vesti da mastro guardaboschi",
+		"thai": "ชุดนักป่าไม้ชั้นครู",
 	},
 	"equipmentDescription_foresterGear1": {
 		"english": "Working gear that will scare the hell out of all nearby trees. Foresters work a lot faster",
@@ -806,6 +858,7 @@
 		"korean": "주변의 나무들을 공포에 떨게 할 작업복입니다. 나무꾼이 일하는 속도가 많이 빨라집니다.",
 		"chinese": "工作起来会把附近的树全扫荡了。伐木工的工作得更快了",
 		"italian": "Delle vesti lavorative che spaventeranno a morte tutti gli alberi nelle vicinanze. I guardaboschi lavoreranno molto più velocemente.",
+		"thai": "อุปกรณ์ทำงานที่จะทำให้ต้นไม้ต้องกลัวจนหัวหด นักป่าไม้จะทำงานได้รวดเร็วขึ้นมาก",
 	},
 	"equipmentName_minerGear0": {
 		"english": "Apprentice Miner's Clothes",
@@ -821,6 +874,7 @@
 		"korean": "풋내기 광부의 옷",
 		"chinese": "矿工学徒衣服",
 		"italian": "Vesti da apprendista minatore",
+		"thai": "ชุดนักขุดแร่ฝึกหัด",
 	},
 	"equipmentDescription_minerGear0": {
 		"english": "Makes all the hard work slightly more bearable. Miners will work a bit faster.",
@@ -836,6 +890,7 @@
 		"korean": "모든 힘든 일들을 좀 더 참을 수 있게 해줍니다. 광부가 조금 빠르게 일합니다.",
 		"chinese": "让重活变得更容易承受。矿工们会工作得更快一些。",
 		"italian": "Rendono leggermente più sopportabile tutta la fatica. I minatori lavoreranno un po' più velocemente.",
+		"thai": "ทำให้งานหนักกลายเป็นเรื่องที่พอจะรับได้ขึ้นมาอีกหน่อย นักขุดแร่จะทำงานได้รวดเร็วขึ้นอีกนิด",
 	},
 	"equipmentName_minerGear1": {
 		"english": "Master Miner's Clothes",
@@ -851,6 +906,7 @@
 		"korean": "베테랑 광부의 옷",
 		"chinese": "矿工大师衣服",
 		"italian": "Vesti da mastro minatore",
+		"thai": "ชุดนักขุดแร่ชั้นครู",
 	},
 	"equipmentDescription_minerGear1": {
 		"english": "For passionate miners that can't imagine life without a pickaxe in their hands. Mining stone, crystals and iron ore takes way less time. \"Rock and stone, brother!\"", // The last sentence is a quote from Deep Rock Galactic. As it is only voiced in English, we decided not to include this easter egg to other languages. Just ignore it. ;)
@@ -866,6 +922,7 @@
 		"korean": "손에 곡괭이가 없는 삶을 상상하지도 못하는 그런 열정적인 광부들을 위한 옷입니다. 돌, 크리스탈, 철광석을 캐내는 시간이 훨씬 짧아집니다.",
 		"chinese": "对于热情的矿工来说，他们无法想象没有鹤嘴锄的生活。开采石头、水晶和铁矿石的时间要短得多。",
 		"italian": "Per minatori appassionati che non possono immaginare la vita senza un piccone nelle loro mani. L'estrazione delle pietre, dei cristalli e dei minerali di ferro richiederà molto meno tempo.",
+		"thai": "สำหรับนักขุดแร่ผู้มีใจรักที่ไม่สามารถจินตนาการถึงชีวิตที่ปราศจากอีเต้อในมือไปได้ ทุ่นเวลาในการขุดหิน ผลึกเวทย์ และแร่เหล็กไปได้มาก",
 	},
 	"equipmentName_scholarRobe0": {
 		"english": "Apprentice Scholar's Robes",
@@ -881,6 +938,7 @@
 		"korean": "풋내기 학자의 로브",
 		"chinese": "学者学徒长袍",
 		"italian": "Vesti da apprendista studioso",
+		"thai": "ชุดนักวิชาการฝึกหัด",
 	},
 	"equipmentDescription_scholarRobe0": {
 		"english": "With these airy and comfortable robes, your scholars will do their research slightly faster.",
@@ -896,6 +954,7 @@
 		"korean": "이 가볍고 편안한 로브를 입으면, 학자가 연구하는 속도가 살짝 빨라집니다.",
 		"chinese": "有了这些轻便舒适的长袍，你们的学者们将会更快地进行研究。",
 		"italian": "Con queste vesti ariose e comode, i tuoi studiosi eseguiranno le loro ricerche un po' più velocemente.",
+		"thai": "ด้วยชุดคลุมที่โปร่งสบายตัว นักวิชาการของคุณจะทำการวิจัยได้เร็วขึ้นหน่อย",
 	},
 	"equipmentName_scholarRobe1": {
 		"english": "Master Scholar's Robes",
@@ -911,6 +970,7 @@
 		"korean": "박사의 로브",
 		"chinese": "学者大师长袍",
 		"italian": "Vesti da mastro studioso",
+		"thai": "ชุดนักวิชาการชั้นครู",
 	},
 	"equipmentDescription_scholarRobe1": {
 		"english": "These noble robes emphasize the high rank of their bearer. Scholars research new technologies way faster.",
@@ -926,6 +986,7 @@
 		"korean": "이 고귀한 로브는 로브를 입은 사람의 높은 계급을 강조합니다. 학자가 새로운 기술을 훨씬 빠르게 연구합니다.",
 		"chinese": "这些高贵的长袍彰显着高贵的地位。学者们研究新技术的速度更快。",
 		"italian": "Queste nobili vesti sottolineano l'alto rango del loro portatore. Con queste, gli studiosi ricercano le nuove tecnologie molto più velocemente.",
+		"thai": "ชุดคลุมที่สูงศักดิ์นี้ขับเน้นยศถาของผู้สวมใส่ นักวิชาการจะวิจัยนวัตกรรมใหม่ๆ ได้อย่างรวมเร็วมากขึ้น",
 	},
 	"equipmentName_doctorRobe0": {
 		"english": "Apprentice Doctor's Robes",
@@ -941,6 +1002,7 @@
 		"korean": "풋내기 의사의 옷",
 		"chinese": "医生学徒长袍",
 		"italian": "Vesti da apprendista medico",
+		"thai": "ชุดแพทย์ฝึกหัด",
 	},
 	"equipmentDescription_doctorRobe0": {
 		"english": "Offers minor protection against contagious diseases. Very useful for doctors, as they have a lot of contact with their ill patients.",
@@ -956,6 +1018,7 @@
 		"korean": "전염되는 질병으로부터의 감염 위험을 조금 줄여줍니다. 아픈 환자들과 자주 접촉해야 하는 의사들에겐 꽤 유용합니다.",
 		"chinese": "预防轻微的传染病。这对医生非常有用，因为他们与病人有很多接触。",
 		"italian": "Offrono una protezione minore contro le malattie contagiose. Molto utile per i medici, dal momento che hanno molti contatti con i loro pazienti.",
+		"thai": "ให้การป้องกันเล็กน้อยสำหรับโรคติดต่อ มีประโยชน์มากสำหรับแพทย์ที่ต้องติดต่ออยู่บ่อยครั้งกับผู้ป่วย",
 	},
 	"equipmentName_doctorRobe1": {
 		"english": "Master Doctor's Robes",
@@ -972,6 +1035,7 @@
 		"korean": "베테랑 의사의 옷",
 		"chinese": "医生大师长袍",
 		"italian": "Vesti da mastro medico",
+		"thai": "ชุดแพทย์ชั้นครู",
 	},
 	"equipmentDescription_doctorRobe1": {
 		"english": "Protects the wearer from contagious diseases. Very useful for doctors, as they have a lot of contact with their ill patients.",
@@ -988,6 +1052,7 @@
 		"korean": "착용자를 전염병으로부터 보호합니다. 아픈 환자들과 자주 접촉해야 하는 의사들에겐 꽤 유용합니다.",
 		"chinese": "保护穿戴者免受传染病。这对医生非常有用，因为他们与病人有很多接触。",
 		"italian": "Proteggono chi le indossa dalle malattie contagiose. Molto utile per i medici, dal momento che hanno molti contatti con i loro pazienti.",
+		"thai": "ป้องกันผู้สวมใส่จากโรคติดต่อ มีประโยชน์ยิ่งสำหรับแพทย์ที่ต้องติดต่อกับผู้ป่วยอยู่บ่อยๆ",	
 	},
 	"equipmentName_farmerGear0": {
 		"english": "Apprentice Farmer's Clothes",
@@ -1003,6 +1068,7 @@
 		"korean": "풋내기 농부의 옷",
 		"chinese": "农民学徒衣服",
 		"italian": "Vesti da apprendista contadino",
+		"thai": "ชุดเกษตรกรฝึกหัด",	
 	},
 	"equipmentDescription_farmerGear0": {
 		"english": "Equipped with this piece of clothing, farmers work more efficiently. Sowing and watering take a little less time!",
@@ -1018,6 +1084,7 @@
 		"korean": "이 옷을 입은 농부는 좀 더 효율적으로 일합니다. 작물을 심거나 물을 주는 일에 걸리는 시간이 짧아집니다!",
 		"chinese": "有了这件衣服，农民们的工作效率提高了。播种和浇水的时间少一些!",
 		"italian": "Con queste vesti indosso, i coltivatori lavorano in modo più efficiente. La semina e l'irrigazione richiederanno un po' meno tempo!",
+		"thai": "เมื่อสวมใส่ชุดนี้ เกษตรกรสามารถทำงานได้อย่างมีประสิทธิภาพมากขึ้น การไถหว่านและรดน้ำจะใช้เวลาน้อยลง!",
 	},
 	"equipmentName_farmerGear1": {
 		"english": "Master Farmer's Clothes",
@@ -1034,6 +1101,7 @@
 		"korean": "베테랑 농부의 옷",
 		"chinese": "农民大师衣服",
 		"italian": "Vesti da mastro contadino",
+		"thai": "ชุดเกษตรกรชั้นครู",
 	},
 	"equipmentDescription_farmerGear1": {
 		"english": "This robust piece of clothing is perfectly suited for working the fields. Wearing this, farmers can sow their fields in almost half the time!",
@@ -1050,6 +1118,7 @@
 		"korean": "이 튼튼한 못은 밭일에 딱 안성맞춤입니다. 이 옷을 입으면, 농부가 작물을 심는 데 걸리는 시간이 거의 절반으로 줄어듭니다!",
 		"chinese": "这件结实的衣服非常适合在田里干活。农民播种他们的土地只需花费一半的时间!",
 		"italian": "Queste vesti robuste sono perfettamente adatte per il lavoro nei campi. Indossandole, i coltivatori possono seminare i loro campi in quasi la metà del tempo!",
+		"thai": "เสื้อผ้าที่เหมาะสมนี้เหมาะเป็นอย่างยิ่งกับการทำงานในไร่ เมื่อสวมใส่ เกษตรกรจะสามารถไถหว่านไร่ของตนได้โดยใช้เวลาแค่ครึ่งเดียว!",
 	},
 	"equipmentName_traderGear": {
 		"english": "Trader's Garments",
@@ -1065,6 +1134,7 @@
 		"korean": "상인의 의복",
 		"chinese": "交易员衣服",
 		"italian": "Vesti da mercante",
+		"thai": "ชุดของพ่อค้า",
 	},
 	"equipmentDescription_traderGear": {
 		"english": "A magnificent garment, that is very popular with traders.",
@@ -1080,5 +1150,6 @@
 		"korean": "이 훌륭한 의상은 상인들에게 꽤 인기있습니다.",
 		"chinese": "一件华丽的衣服，很受商人的欢迎。",
 		"italian": "Delle vesti magnifiche, molto popolari tra i mercanti.",
+		"thai": "ชุดชั้นเลิศที่เป็นที่นิยมในหมู่พ่อค้า",
 	},
 }
