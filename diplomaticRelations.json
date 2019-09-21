@@ -13,6 +13,7 @@
 		"chinese": "--",
 		"italian": "-",
 		"polish": "-",
+		"thai": "-",
 	},
 	"diplomaticRelation_GotPresents": {
 		"english": "Got Presents",
@@ -27,6 +28,7 @@
 		"chinese": "得到礼物",
 		"italian": "Ha dei regali",
 		"polish": "Otrzymano prezenty",
+		"thai": "ได้รับของขวัญ",
 	},
 	"diplomaticRelation_Kindhearted": {
 		"english": "Kindhearted",
@@ -41,6 +43,7 @@
 		"chinese": "仁慈的",
 		"italian": "Generoso",
 		"polish": "Dobrotliwy",
+		"thai": "จิตใจดี",
 	},
 	"diplomaticRelation_Xenophobic": {
 		"english": "Xenophobic",
@@ -55,6 +58,7 @@
 		"chinese": "恐惧的",
 		"italian": "Xenofobo",
 		"polish": "Ksenofobiczny",
+		"thai": "เกลียดชาวต่างชาติ",
 	},
 	"diplomaticRelation_KilledOneOfOurPeople": {
 		"english": "One of our people was killed",
@@ -69,6 +73,7 @@
 		"chinese": "我们的一个人被杀了",
 		"italian": "Una persona del tuo popolo è stata uccisa",
 		"polish": "Jeden z naszych ludzi został zabity",
+		"thai": "คนของเรานั้นถูกฆ่า",
 	},
 	"diplomaticRelation_GoodTrade": {
 		"english": "Good Trade",
@@ -83,6 +88,7 @@
 		"chinese": "货物贸易",
 		"italian": "Buon commercio",
 		"polish": "Dobry handel",
+		"thai": "ทำมาค้าคล่อง",
 	},
 	"diplomaticRelation_EnviousOfWealthyColony": {
 		"english": "Envious of Wealthy Colony",
@@ -97,6 +103,7 @@
 		"chinese": "嫉妒富有的殖民地",
 		"italian": "Invidioso della colonia ricca",
 		"polish": "Zazdrosny o bogactwo kolonii",
+		"thai": "อิจฉาอาณานิคมที่ร่ำรวย",
 	},
 	"diplomaticRelation_WorriedAboutLargeColony": {
 		"english": "Worried about Large Colony",
@@ -111,6 +118,7 @@
 		"chinese": "担心庞大的殖民地",
 		"italian": "Preoccupato per la grande colonia",
 		"polish": "Zaniepokojony wielkością kolonii",
+		"thai": "กังวลเกี่ยวกับอาณานิคมขนาดใหญ่",
 	},
 	"diplomaticRelation_LastingFriendship": {
 		"english": "Lasting Friendship",
@@ -125,6 +133,7 @@
 		"chinese": "长久的友谊",
 		"italian": "Amicizia duratura",
 		"polish": "Trwająca przyjaźń",
+		"thai": "มิตรภาพยั่งยืน",
 	},
 	"diplomaticRelation_LongTimeNemisis": {
 		"english": "Long Time Nemisis",
@@ -139,6 +148,7 @@
 		"chinese": "长时复仇者",
 		"italian": "Nemesi di lungo tempo",
 		"polish": "Długotrwała kara",
+		"thai": "ศัตรูที่ยาวนาน",
 	},
 	"diplomaticRelation_GotAttackedWithNoReason": {
 		"english": "Got Attacked with no Reason",
@@ -153,6 +163,7 @@
 		"chinese": "无缘无故受到攻击",
 		"italian": "È stato attaccato senza ragione",
 		"polish": "Zostano zaatakowanym bez powodu",
+		"thai": "ถูกโจมตีอย่างไร้สาเหตุ",
 	},
 	"diplomaticRelation_Fought": {
 		"english": "Fought",
@@ -167,6 +178,7 @@
 		"chinese": "战斗",
 		"italian": "Disputa",
 		"polish": "Walczono",
+		"thai": "ได้ต่อสู้",
 	},
 	"diplomaticRelation_DemandedTributeFromUs": {
 		"english": "You demanded a tribute",
@@ -181,6 +193,7 @@
 		"chinese": "你需要进贡",
 		"italian": "Hai chiesto un tributo",
 		"polish": "Zażądałeś trybutu",
+		"thai": "คุณเรียกร้องขอส่วย",
 	},
 	"diplomaticRelation_OurTributePaid": {
 		"english": "Our Tribute was Paid",
@@ -195,6 +208,7 @@
 		"chinese": "我们向他进贡",
 		"italian": "Il nostro tributo è stato pagato",
 		"polish": "Nasz trybut został opłacony",
+		"thai": "ได้รับส่วยของเราแล้ว",
 	},
 	"diplomaticRelation_OurTributeNotPaid": {
 		"english": "Our Tribute was not Paid",
@@ -209,6 +223,7 @@
 		"chinese": "我们没有向他进贡",
 		"italian": "Il nostro tributo non è stato pagato",
 		"polish": "Nasz trybut nie został opłacony",
+		"thai": "ไม่มีการส่งส่วยของเรามา",
 	},
 	"diplomaticRelation_TendedToInjured": {
 		"english": "Our injured were tended to",
@@ -223,6 +238,7 @@
 		"chinese": "我们的伤员被照料得很好",
 		"italian": "I nostri feriti sono stati curati",
 		"polish": "Nasi ranni zostali opatrzeni",
+		"thai": "ผู้บาดเจ็บได้รับการดูแลแล้ว",
 	},
 	"diplomaticRelation_StatuePresent": {
 		"english": "We got a statue as a present",
@@ -237,6 +253,7 @@
 		"chinese": "我们得到一尊雕像作为礼物",
 		"italian": "Abbiamo avuto una statua in dono",
 		"polish": "Otrzymaliśmy statuę jako prezent",
+		"thai": "เราได้รับรูปสลักเป็นของกำนัล",
 	},
 	"diplomaticRelation_EagerToTrade": {
 		"english": "Eager to Trade",
@@ -251,6 +268,7 @@
 		"chinese": "渴望贸易",
 		"italian": "Desideroso di commerciare",
 		"polish": "Chętny do handlu",
+		"thai": "ใคร่อยากค้าขาย",
 	},
 	"diplomaticRelation_HadToMakeDetourToVisit": {
 		"english": "Had to take a Detour to Visit",
@@ -265,6 +283,7 @@
 		"chinese": "不得不绕道去拜访",
 		"italian": "Ha dovuto fare una deviazione per la visita",
 		"polish": "Musiał wziąć objazd, aby odwiedzieć",
+		"thai": "ต้องอ้อมทางเพื่อไปเยี่ยม",
 	},
 	"diplomaticRelation_CharmedByDiplomat": {
 		"english": "Charmed by Diplomat",
@@ -279,5 +298,6 @@
 		"russian": "Очарован дипломатом",
 		"italian": "Ammaliato dal diplomatico",
 		"polish": "Zauroczony przez dyplomatę",
+		"thai": "หลงสเน่ห์จากการฑูต",
 	},
 }
