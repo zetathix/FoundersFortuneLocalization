@@ -359,4 +359,18 @@
 			"InsicuroInsicura": "insicura",
 		}
 	},
+	"ไทย": {
+		"male": {
+			"heShe": "เขา",
+			"hisHer": "ของเขา",
+			"himselfHerself": "ตัวเขา",
+			"guyGirl": "ผู้ชาย"
+		},
+		"female": {
+			"heShe": "เธอ",
+			"hisHer": "ของเธอ",
+			"himselfHerself": "ตัวเธอ",
+			"guyGirl": "ผู้หญิง"
+		}
+	},
 }
